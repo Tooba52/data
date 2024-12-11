@@ -1,1181 +1,1181 @@
-month	crimeType	reportedCrimes
-1995	City of London	8406
-1996	City of London	8728
-1997	City of London	10329
-1998	City of London	13753
-1999	City of London	11814
-2000	City of London	11741
-2001	City of London	12847
-2002	City of London	11992
-2003	City of London	8389
-2004	City of London	8301
-2005	City of London	6600
-2006	City of London	6015
-2007	City of London	5840
-2008	City of London	6403
-2009	City of London	7262
-2010	City of London	6193
-2011	City of London	7266
-2012	City of London	6694
-2013	City of London	8157
-2014	City of London	8342
-2015	City of London	6879
-2016	City of London	6479
-2017	City of London	5503
-2018	City of London	5318
-2019	City of London	6863
-2020	City of London	5142
-2021	City of London	5468
-1995	Barking and Dagenham	6155
-1996	Barking and Dagenham	6445
-1997	Barking and Dagenham	6648
-1998	Barking and Dagenham	8792
-1999	Barking and Dagenham	7971
-2000	Barking and Dagenham	5955
-2001	Barking and Dagenham	5914
-2002	Barking and Dagenham	5159
-2003	Barking and Dagenham	4749
-2004	Barking and Dagenham	4510
-2005	Barking and Dagenham	4285
-2006	Barking and Dagenham	5685
-2007	Barking and Dagenham	6081
-2008	Barking and Dagenham	6296
-2009	Barking and Dagenham	7099
-2010	Barking and Dagenham	7742
-2011	Barking and Dagenham	6695
-2012	Barking and Dagenham	6422
-2013	Barking and Dagenham	5923
-2014	Barking and Dagenham	4962
-2015	Barking and Dagenham	4188
-2016	Barking and Dagenham	4438
-2017	Barking and Dagenham	4217
-2018	Barking and Dagenham	4778
-2019	Barking and Dagenham	5484
-2020	Barking and Dagenham	5388
-2021	Barking and Dagenham	6207
-1995	Barnet	6066
-1996	Barnet	5865
-1997	Barnet	5248
-1998	Barnet	5515
-1999	Barnet	4398
-2000	Barnet	4074
-2001	Barnet	3993
-2002	Barnet	4158
-2003	Barnet	4687
-2004	Barnet	4885
-2005	Barnet	5643
-2006	Barnet	5653
-2007	Barnet	6306
-2008	Barnet	5879
-2009	Barnet	5228
-2010	Barnet	5647
-2011	Barnet	4003
-2012	Barnet	3935
-2013	Barnet	1903
-2014	Barnet	2073
-2015	Barnet	1928
-2016	Barnet	1924
-2017	Barnet	1595
-2018	Barnet	1843
-2019	Barnet	1685
-2020	Barnet	1719
-2021	Barnet	1683
-1995	Bexley	1778
-1996	Bexley	1769
-1997	Bexley	1574
-1998	Bexley	1895
-1999	Bexley	2099
-2000	Bexley	1926
-2001	Bexley	2079
-2002	Bexley	1969
-2003	Bexley	2136
-2004	Bexley	1764
-2005	Bexley	1697
-2006	Bexley	1632
-2007	Bexley	1709
-2008	Bexley	1960
-2009	Bexley	2090
-2010	Bexley	2117
-2011	Bexley	2386
-2012	Bexley	2207
-2013	Bexley	2485
-2014	Bexley	2610
-2015	Bexley	2487
-2016	Bexley	2282
-2017	Bexley	2183
-2018	Bexley	2201
-2019	Bexley	2385
-2020	Bexley	2055
-2021	Bexley	2161
-1995	Brent	1938
-1996	Brent	2139
-1997	Brent	2197
-1998	Brent	2117
-1999	Brent	2150
-2000	Brent	1997
-2001	Brent	2074
-2002	Brent	1954
-2003	Brent	1910
-2004	Brent	1812
-2005	Brent	2194
-2006	Brent	2143
-2007	Brent	2180
-2008	Brent	2205
-2009	Brent	2200
-2010	Brent	1998
-2011	Brent	2085
-2012	Brent	2097
-2013	Brent	2085
-2014	Brent	2028
-2015	Brent	1824
-2016	Brent	2102
-2017	Brent	2045
-2018	Brent	2006
-2019	Brent	2006
-2020	Brent	2037
-2021	Brent	2066
-1995	Bromley	2159
-1996	Bromley	2069
-1997	Bromley	2108
-1998	Bromley	1881
-1999	Bromley	2010
-2000	Bromley	1885
-2001	Bromley	2144
-2002	Bromley	1976
-2003	Bromley	2161
-2004	Bromley	2084
-2005	Bromley	2055
-2006	Bromley	1980
-2007	Bromley	2059
-2008	Bromley	2104
-2009	Bromley	2077
-2010	Bromley	2093
-2011	Bromley	1934
-2012	Bromley	1981
-2013	Bromley	2098
-2014	Bromley	2009
-2015	Bromley	2189
-2016	Bromley	1971
-2017	Bromley	2149
-2018	Bromley	2147
-2019	Bromley	2030
-2020	Bromley	2321
-2021	Bromley	2144
-1995	Camden	2203
-1996	Camden	652
-1997	Camden	820
-1998	Camden	790
-1999	Camden	693
-2000	Camden	676
-2001	Camden	707
-2002	Camden	719
-2003	Camden	691
-2004	Camden	833
-2005	Camden	705
-2006	Camden	762
-2007	Camden	813
-2008	Camden	601
-2009	Camden	728
-2010	Camden	712
-2011	Camden	601
-2012	Camden	598
-2013	Camden	629
-2014	Camden	646
-2015	Camden	693
-2016	Camden	693
-2017	Camden	671
-2018	Camden	627
-2019	Camden	578
-2020	Camden	552
-2021	Camden	556
-1995	Croydon	557
-1996	Croydon	628
-1997	Croydon	509
-1998	Croydon	459
-1999	Croydon	594
-2000	Croydon	521
-2001	Croydon	553
-2002	Croydon	523
-2003	Croydon	451
-2004	Croydon	443
-2005	Croydon	453
-2006	Croydon	498
-2007	Croydon	531
-2008	Croydon	474
-2009	Croydon	485
-2010	Croydon	414
-2011	Croydon	474
-2012	Croydon	493
-2013	Croydon	476
-2014	Croydon	503
-2015	Croydon	452
-2016	Croydon	443
-2017	Croydon	459
-2018	Croydon	486
-2019	Croydon	422
-2020	Croydon	507
-2021	Croydon	496
-1995	Ealing	435
-1996	Ealing	522
-1997	Ealing	478
-1998	Ealing	452
-1999	Ealing	440
-2000	Ealing	393
-2001	Ealing	334
-2002	Ealing	365
-2003	Ealing	388
-2004	Ealing	358
-2005	Ealing	311
-2006	Ealing	798
-2007	Ealing	807
-2008	Ealing	817
-2009	Ealing	712
-2010	Ealing	737
-2011	Ealing	726
-2012	Ealing	649
-2013	Ealing	644
-2014	Ealing	529
-2015	Ealing	581
-2016	Ealing	578
-2017	Ealing	531
-2018	Ealing	562
-2019	Ealing	501
-2020	Ealing	555
-2021	Ealing	512
-1995	Enfield	487
-1996	Enfield	453
-1997	Enfield	415
-1998	Enfield	428
-1999	Enfield	429
-2000	Enfield	444
-2001	Enfield	461
-2002	Enfield	468
-2003	Enfield	471
-2004	Enfield	460
-2005	Enfield	455
-2006	Enfield	448
-2007	Enfield	460
-2008	Enfield	459
-2009	Enfield	431
-2010	Enfield	445
-2011	Enfield	426
-2012	Enfield	451
-2013	Enfield	396
-2014	Enfield	481
-2015	Enfield	496
-2016	Enfield	477
-2017	Enfield	471
-2018	Enfield	376
-2019	Enfield	398
-2020	Enfield	404
-2021	Enfield	373
-1995	Greenwich	395
-1996	Greenwich	473
-1997	Greenwich	398
-1998	Greenwich	461
-1999	Greenwich	434
-2000	Greenwich	421
-2001	Greenwich	370
-2002	Greenwich	418
-2003	Greenwich	334
-2004	Greenwich	414
-2005	Greenwich	366
-2006	Greenwich	396
-2007	Greenwich	384
-2008	Greenwich	408
-2009	Greenwich	442
-2010	Greenwich	417
-2011	Greenwich	435
-2012	Greenwich	472
-2013	Greenwich	417
-2014	Greenwich	446
-2015	Greenwich	431
-2016	Greenwich	453
-2017	Greenwich	428
-2018	Greenwich	450
-2019	Greenwich	499
-2020	Greenwich	425
-2021	Greenwich	562
-1995	Hackney	496
-1996	Hackney	511
-1997	Hackney	2473
-1998	Hackney	2358
-1999	Hackney	2347
-2000	Hackney	2081
-2001	Hackney	2456
-2002	Hackney	2132
-2003	Hackney	1987
-2004	Hackney	2030
-2005	Hackney	2313
-2006	Hackney	2238
-2007	Hackney	2199
-2008	Hackney	1928
-2009	Hackney	1937
-2010	Hackney	1786
-2011	Hackney	2033
-2012	Hackney	1914
-2013	Hackney	1868
-2014	Hackney	1737
-2015	Hackney	1837
-2016	Hackney	1902
-2017	Hackney	2016
-2018	Hackney	2042
-2019	Hackney	2063
-2020	Hackney	1869
-2021	Hackney	1806
-1995	Hammersmith and Fulham	1690
-1996	Hammersmith and Fulham	2001
-1997	Hammersmith and Fulham	1966
-1998	Hammersmith and Fulham	1867
-1999	Hammersmith and Fulham	1933
-2000	Hammersmith and Fulham	1864
-2001	Hammersmith and Fulham	1895
-2002	Hammersmith and Fulham	1928
-2003	Hammersmith and Fulham	2176
-2004	Hammersmith and Fulham	2021
-2005	Hammersmith and Fulham	1927
-2006	Hammersmith and Fulham	1946
-2007	Hammersmith and Fulham	1824
-2008	Hammersmith and Fulham	2159
-2009	Hammersmith and Fulham	1825
-2010	Hammersmith and Fulham	1854
-2011	Hammersmith and Fulham	1926
-2012	Hammersmith and Fulham	1896
-2013	Hammersmith and Fulham	1946
-2014	Hammersmith and Fulham	2092
-2015	Hammersmith and Fulham	2302
-2016	Hammersmith and Fulham	2278
-2017	Hammersmith and Fulham	2168
-2018	Hammersmith and Fulham	2195
-2019	Hammersmith and Fulham	1964
-2020	Hammersmith and Fulham	1949
-2021	Hammersmith and Fulham	1817
-1995	Haringey	2087
-1996	Haringey	2040
-1997	Haringey	2122
-1998	Haringey	2058
-1999	Haringey	2210
-2000	Haringey	2179
-2001	Haringey	2264
-2002	Haringey	2192
-2003	Haringey	2263
-2004	Haringey	2018
-2005	Haringey	2218
-2006	Haringey	2046
-2007	Haringey	2158
-2008	Haringey	2102
-2009	Haringey	2358
-2010	Haringey	2488
-2011	Haringey	2753
-2012	Haringey	2966
-2013	Haringey	2963
-2014	Haringey	2773
-2015	Haringey	
-2016	Haringey	
-2017	Haringey	
-2018	Haringey	
-2019	Haringey	
-2020	Haringey	
-2021	Haringey	
-1995	Harrow	
-1996	Harrow	
-1997	Harrow	
-1998	Harrow	
-1999	Harrow	
-2000	Harrow	
-2001	Harrow	
-2002	Harrow	
-2003	Harrow	
-2004	Harrow	
-2005	Harrow	
-2006	Harrow	
-2007	Harrow	
-2008	Harrow	
-2009	Harrow	
-2010	Harrow	
-2011	Harrow	
-2012	Harrow	
-2013	Harrow	
-2014	Harrow	
-2015	Harrow	
-2016	Harrow	
-2017	Harrow	
-2018	Harrow	
-2019	Harrow	
-2020	Harrow	
-2021	Harrow	
-1995	Havering	
-1996	Havering	
-1997	Havering	
-1998	Havering	
-1999	Havering	
-2000	Havering	
-2001	Havering	
-2002	Havering	
-2003	Havering	
-2004	Havering	
-2005	Havering	
-2006	Havering	
-2007	Havering	
-2008	Havering	
-2009	Havering	
-2010	Havering	
-2011	Havering	
-2012	Havering	
-2013	Havering	
-2014	Havering	
-2015	Havering	
-2016	Havering	
-2017	Havering	
-2018	Havering	
-2019	Havering	
-2020	Havering	
-2021	Havering	
-1995	Hillingdon	
-1996	Hillingdon	
-1997	Hillingdon	
-1998	Hillingdon	
-1999	Hillingdon	
-2000	Hillingdon	
-2001	Hillingdon	
-2002	Hillingdon	
-2003	Hillingdon	
-2004	Hillingdon	
-2005	Hillingdon	
-2006	Hillingdon	
-2007	Hillingdon	
-2008	Hillingdon	
-2009	Hillingdon	
-2010	Hillingdon	
-2011	Hillingdon	
-2012	Hillingdon	
-2013	Hillingdon	
-2014	Hillingdon	
-2015	Hillingdon	
-2016	Hillingdon	
-2017	Hillingdon	
-2018	Hillingdon	
-2019	Hillingdon	
-2020	Hillingdon	
-2021	Hillingdon	
-1995	Hounslow	
-1996	Hounslow	
-1997	Hounslow	
-1998	Hounslow	
-1999	Hounslow	
-2000	Hounslow	
-2001	Hounslow	
-2002	Hounslow	
-2003	Hounslow	
-2004	Hounslow	
-2005	Hounslow	
-2006	Hounslow	
-2007	Hounslow	
-2008	Hounslow	
-2009	Hounslow	
-2010	Hounslow	
-2011	Hounslow	
-2012	Hounslow	
-2013	Hounslow	
-2014	Hounslow	
-2015	Hounslow	
-2016	Hounslow	
-2017	Hounslow	
-2018	Hounslow	
-2019	Hounslow	
-2020	Hounslow	
-2021	Hounslow	
-1995	Islington	
-1996	Islington	
-1997	Islington	
-1998	Islington	
-1999	Islington	
-2000	Islington	
-2001	Islington	
-2002	Islington	
-2003	Islington	
-2004	Islington	
-2005	Islington	
-2006	Islington	
-2007	Islington	
-2008	Islington	
-2009	Islington	
-2010	Islington	
-2011	Islington	
-2012	Islington	
-2013	Islington	
-2014	Islington	
-2015	Islington	
-2016	Islington	
-2017	Islington	
-2018	Islington	
-2019	Islington	
-2020	Islington	
-2021	Islington	
-1995	Kensington and Chelsea	
-1996	Kensington and Chelsea	
-1997	Kensington and Chelsea	
-1998	Kensington and Chelsea	
-1999	Kensington and Chelsea	
-2000	Kensington and Chelsea	
-2001	Kensington and Chelsea	
-2002	Kensington and Chelsea	
-2003	Kensington and Chelsea	
-2004	Kensington and Chelsea	
-2005	Kensington and Chelsea	
-2006	Kensington and Chelsea	
-2007	Kensington and Chelsea	
-2008	Kensington and Chelsea	
-2009	Kensington and Chelsea	
-2010	Kensington and Chelsea	
-2011	Kensington and Chelsea	
-2012	Kensington and Chelsea	
-2013	Kensington and Chelsea	
-2014	Kensington and Chelsea	
-2015	Kensington and Chelsea	
-2016	Kensington and Chelsea	
-2017	Kensington and Chelsea	
-2018	Kensington and Chelsea	
-2019	Kensington and Chelsea	
-2020	Kensington and Chelsea	
-2021	Kensington and Chelsea	
-1995	Kingston-upon-Thames	
-1996	Kingston-upon-Thames	
-1997	Kingston-upon-Thames	
-1998	Kingston-upon-Thames	
-1999	Kingston-upon-Thames	
-2000	Kingston-upon-Thames	
-2001	Kingston-upon-Thames	
-2002	Kingston-upon-Thames	
-2003	Kingston-upon-Thames	
-2004	Kingston-upon-Thames	
-2005	Kingston-upon-Thames	
-2006	Kingston-upon-Thames	
-2007	Kingston-upon-Thames	
-2008	Kingston-upon-Thames	
-2009	Kingston-upon-Thames	
-2010	Kingston-upon-Thames	
-2011	Kingston-upon-Thames	
-2012	Kingston-upon-Thames	
-2013	Kingston-upon-Thames	
-2014	Kingston-upon-Thames	
-2015	Kingston-upon-Thames	
-2016	Kingston-upon-Thames	
-2017	Kingston-upon-Thames	
-2018	Kingston-upon-Thames	
-2019	Kingston-upon-Thames	
-2020	Kingston-upon-Thames	
-2021	Kingston-upon-Thames	
-1995	Lambeth	
-1996	Lambeth	
-1997	Lambeth	
-1998	Lambeth	
-1999	Lambeth	
-2000	Lambeth	
-2001	Lambeth	
-2002	Lambeth	
-2003	Lambeth	
-2004	Lambeth	
-2005	Lambeth	
-2006	Lambeth	
-2007	Lambeth	
-2008	Lambeth	
-2009	Lambeth	
-2010	Lambeth	
-2011	Lambeth	
-2012	Lambeth	
-2013	Lambeth	
-2014	Lambeth	
-2015	Lambeth	
-2016	Lambeth	
-2017	Lambeth	
-2018	Lambeth	
-2019	Lambeth	
-2020	Lambeth	
-2021	Lambeth	
-1995	Lewisham	
-1996	Lewisham	
-1997	Lewisham	
-1998	Lewisham	
-1999	Lewisham	
-2000	Lewisham	
-2001	Lewisham	
-2002	Lewisham	
-2003	Lewisham	
-2004	Lewisham	
-2005	Lewisham	
-2006	Lewisham	
-2007	Lewisham	
-2008	Lewisham	
-2009	Lewisham	
-2010	Lewisham	
-2011	Lewisham	
-2012	Lewisham	
-2013	Lewisham	
-2014	Lewisham	
-2015	Lewisham	
-2016	Lewisham	
-2017	Lewisham	
-2018	Lewisham	
-2019	Lewisham	
-2020	Lewisham	
-2021	Lewisham	
-1995	Merton	
-1996	Merton	
-1997	Merton	
-1998	Merton	
-1999	Merton	
-2000	Merton	
-2001	Merton	
-2002	Merton	
-2003	Merton	
-2004	Merton	
-2005	Merton	
-2006	Merton	
-2007	Merton	
-2008	Merton	
-2009	Merton	
-2010	Merton	
-2011	Merton	
-2012	Merton	
-2013	Merton	
-2014	Merton	
-2015	Merton	
-2016	Merton	
-2017	Merton	
-2018	Merton	
-2019	Merton	
-2020	Merton	
-2021	Merton	
-1995	Newham	
-1996	Newham	
-1997	Newham	
-1998	Newham	
-1999	Newham	
-2000	Newham	
-2001	Newham	
-2002	Newham	
-2003	Newham	
-2004	Newham	
-2005	Newham	
-2006	Newham	
-2007	Newham	
-2008	Newham	
-2009	Newham	
-2010	Newham	
-2011	Newham	
-2012	Newham	
-2013	Newham	
-2014	Newham	
-2015	Newham	
-2016	Newham	
-2017	Newham	
-2018	Newham	
-2019	Newham	
-2020	Newham	
-2021	Newham	
-1995	Redbridge	
-1996	Redbridge	
-1997	Redbridge	
-1998	Redbridge	
-1999	Redbridge	
-2000	Redbridge	
-2001	Redbridge	
-2002	Redbridge	
-2003	Redbridge	
-2004	Redbridge	
-2005	Redbridge	
-2006	Redbridge	
-2007	Redbridge	
-2008	Redbridge	
-2009	Redbridge	
-2010	Redbridge	
-2011	Redbridge	
-2012	Redbridge	
-2013	Redbridge	
-2014	Redbridge	
-2015	Redbridge	
-2016	Redbridge	
-2017	Redbridge	
-2018	Redbridge	
-2019	Redbridge	
-2020	Redbridge	
-2021	Redbridge	
-1995	Richmond-upon-Thames	
-1996	Richmond-upon-Thames	
-1997	Richmond-upon-Thames	
-1998	Richmond-upon-Thames	
-1999	Richmond-upon-Thames	
-2000	Richmond-upon-Thames	
-2001	Richmond-upon-Thames	
-2002	Richmond-upon-Thames	
-2003	Richmond-upon-Thames	
-2004	Richmond-upon-Thames	
-2005	Richmond-upon-Thames	
-2006	Richmond-upon-Thames	
-2007	Richmond-upon-Thames	
-2008	Richmond-upon-Thames	
-2009	Richmond-upon-Thames	
-2010	Richmond-upon-Thames	
-2011	Richmond-upon-Thames	
-2012	Richmond-upon-Thames	
-2013	Richmond-upon-Thames	
-2014	Richmond-upon-Thames	
-2015	Richmond-upon-Thames	
-2016	Richmond-upon-Thames	
-2017	Richmond-upon-Thames	
-2018	Richmond-upon-Thames	
-2019	Richmond-upon-Thames	
-2020	Richmond-upon-Thames	
-2021	Richmond-upon-Thames	
-1995	Southwark	
-1996	Southwark	
-1997	Southwark	
-1998	Southwark	
-1999	Southwark	
-2000	Southwark	
-2001	Southwark	
-2002	Southwark	
-2003	Southwark	
-2004	Southwark	
-2005	Southwark	
-2006	Southwark	
-2007	Southwark	
-2008	Southwark	
-2009	Southwark	
-2010	Southwark	
-2011	Southwark	
-2012	Southwark	
-2013	Southwark	
-2014	Southwark	
-2015	Southwark	
-2016	Southwark	
-2017	Southwark	
-2018	Southwark	
-2019	Southwark	
-2020	Southwark	
-2021	Southwark	
-1995	Sutton	
-1996	Sutton	
-1997	Sutton	
-1998	Sutton	
-1999	Sutton	
-2000	Sutton	
-2001	Sutton	
-2002	Sutton	
-2003	Sutton	
-2004	Sutton	
-2005	Sutton	
-2006	Sutton	
-2007	Sutton	
-2008	Sutton	
-2009	Sutton	
-2010	Sutton	
-2011	Sutton	
-2012	Sutton	
-2013	Sutton	
-2014	Sutton	
-2015	Sutton	
-2016	Sutton	
-2017	Sutton	
-2018	Sutton	
-2019	Sutton	
-2020	Sutton	
-2021	Sutton	
-1995	Tower Hamlets	
-1996	Tower Hamlets	
-1997	Tower Hamlets	
-1998	Tower Hamlets	
-1999	Tower Hamlets	
-2000	Tower Hamlets	
-2001	Tower Hamlets	
-2002	Tower Hamlets	
-2003	Tower Hamlets	
-2004	Tower Hamlets	
-2005	Tower Hamlets	
-2006	Tower Hamlets	
-2007	Tower Hamlets	
-2008	Tower Hamlets	
-2009	Tower Hamlets	
-2010	Tower Hamlets	
-2011	Tower Hamlets	
-2012	Tower Hamlets	
-2013	Tower Hamlets	
-2014	Tower Hamlets	
-2015	Tower Hamlets	
-2016	Tower Hamlets	
-2017	Tower Hamlets	
-2018	Tower Hamlets	
-2019	Tower Hamlets	
-2020	Tower Hamlets	
-2021	Tower Hamlets	
-1995	Waltham Forest	
-1996	Waltham Forest	
-1997	Waltham Forest	
-1998	Waltham Forest	
-1999	Waltham Forest	
-2000	Waltham Forest	
-2001	Waltham Forest	
-2002	Waltham Forest	
-2003	Waltham Forest	
-2004	Waltham Forest	
-2005	Waltham Forest	
-2006	Waltham Forest	
-2007	Waltham Forest	
-2008	Waltham Forest	
-2009	Waltham Forest	
-2010	Waltham Forest	
-2011	Waltham Forest	
-2012	Waltham Forest	
-2013	Waltham Forest	
-2014	Waltham Forest	
-2015	Waltham Forest	
-2016	Waltham Forest	
-2017	Waltham Forest	
-2018	Waltham Forest	
-2019	Waltham Forest	
-2020	Waltham Forest	
-2021	Waltham Forest	
-1995	Wandsworth	
-1996	Wandsworth	
-1997	Wandsworth	
-1998	Wandsworth	
-1999	Wandsworth	
-2000	Wandsworth	
-2001	Wandsworth	
-2002	Wandsworth	
-2003	Wandsworth	
-2004	Wandsworth	
-2005	Wandsworth	
-2006	Wandsworth	
-2007	Wandsworth	
-2008	Wandsworth	
-2009	Wandsworth	
-2010	Wandsworth	
-2011	Wandsworth	
-2012	Wandsworth	
-2013	Wandsworth	
-2014	Wandsworth	
-2015	Wandsworth	
-2016	Wandsworth	
-2017	Wandsworth	
-2018	Wandsworth	
-2019	Wandsworth	
-2020	Wandsworth	
-2021	Wandsworth	
-1995	Westminster	
-1996	Westminster	
-1997	Westminster	
-1998	Westminster	
-1999	Westminster	
-2000	Westminster	
-2001	Westminster	
-2002	Westminster	
-2003	Westminster	
-2004	Westminster	
-2005	Westminster	
-2006	Westminster	
-2007	Westminster	
-2008	Westminster	
-2009	Westminster	
-2010	Westminster	
-2011	Westminster	
-2012	Westminster	
-2013	Westminster	
-2014	Westminster	
-2015	Westminster	
-2016	Westminster	
-2017	Westminster	
-2018	Westminster	
-2019	Westminster	
-2020	Westminster	
-2021	Westminster	
-1995	North East	
-1996	North East	
-1997	North East	
-1998	North East	
-1999	North East	
-2000	North East	
-2001	North East	
-2002	North East	
-2003	North East	
-2004	North East	
-2005	North East	
-2006	North East	
-2007	North East	
-2008	North East	
-2009	North East	
-2010	North East	
-2011	North East	
-2012	North East	
-2013	North East	
-2014	North East	
-2015	North East	
-2016	North East	
-2017	North East	
-2018	North East	
-2019	North East	
-2020	North East	
-2021	North East	
-1995	North West	
-1996	North West	
-1997	North West	
-1998	North West	
-1999	North West	
-2000	North West	
-2001	North West	
-2002	North West	
-2003	North West	
-2004	North West	
-2005	North West	
-2006	North West	
-2007	North West	
-2008	North West	
-2009	North West	
-2010	North West	
-2011	North West	
-2012	North West	
-2013	North West	
-2014	North West	
-2015	North West	
-2016	North West	
-2017	North West	
-2018	North West	
-2019	North West	
-2020	North West	
-2021	North West	
-1995	London	
-1996	London	
-1997	London	
-1998	London	
-1999	London	
-2000	London	
-2001	London	
-2002	London	
-2003	London	
-2004	London	
-2005	London	
-2006	London	
-2007	London	
-2008	London	
-2009	London	
-2010	London	
-2011	London	
-2012	London	
-2013	London	
-2014	London	
-2015	London	
-2016	London	
-2017	London	
-2018	London	
-2019	London	
-2020	London	
-2021	London	
-1995	South East	
-1996	South East	
-1997	South East	
-1998	South East	
-1999	South East	
-2000	South East	
-2001	South East	
-2002	South East	
-2003	South East	
-2004	South East	
-2005	South East	
-2006	South East	
-2007	South East	
-2008	South East	
-2009	South East	
-2010	South East	
-2011	South East	
-2012	South East	
-2013	South East	
-2014	South East	
-2015	South East	
-2016	South East	
-2017	South East	
-2018	South East	
-2019	South East	
-2020	South East	
-2021	South East	
-1995	South West	
-1996	South West	
-1997	South West	
-1998	South West	
-1999	South West	
-2000	South West	
-2001	South West	
-2002	South West	
-2003	South West	
-2004	South West	
-2005	South West	
-2006	South West	
-2007	South West	
-2008	South West	
-2009	South West	
-2010	South West	
-2011	South West	
-2012	South West	
-2013	South West	
-2014	South West	
-2015	South West	
-2016	South West	
-2017	South West	
-2018	South West	
-2019	South West	
-2020	South West	
-2021	South West	
-1995	England	
-1996	England	
-1997	England	
-1998	England	
-1999	England	
-2000	England	
-2001	England	
-2002	England	
-2003	England	
-2004	England	
-2005	England	
-2006	England	
-2007	England	
-2008	England	
-2009	England	
-2010	England	
-2011	England	
-2012	England	
-2013	England	
-2014	England	
-2015	England	
-2016	England	
-2017	England	
-2018	England	
-2019	England	
-2020	England	
-2021	England	
-1995	Wales	
-1996	Wales	
-1997	Wales	
-1998	Wales	
-1999	Wales	
-2000	Wales	
-2001	Wales	
-2002	Wales	
-2003	Wales	
-2004	Wales	
-2005	Wales	
-2006	Wales	
-2007	Wales	
-2008	Wales	
-2009	Wales	
-2010	Wales	
-2011	Wales	
-2012	Wales	
-2013	Wales	
-2014	Wales	
-2015	Wales	
-2016	Wales	
-2017	Wales	
-2018	Wales	
-2019	Wales	
-2020	Wales	
-1995	Scotland	
-1996	Scotland	
-1997	Scotland	
-1998	Scotland	
-1999	Scotland	
-2000	Scotland	
-2001	Scotland	
-2002	Scotland	
-2003	Scotland	
-2004	Scotland	
-2005	Scotland	
-2006	Scotland	
-2007	Scotland	
-2008	Scotland	
-2009	Scotland	
-2010	Scotland	
-2011	Scotland	
-2012	Scotland	
-2013	Scotland	
-2014	Scotland	
-2015	Scotland	
-2016	Scotland	
-2017	Scotland	
-2018	Scotland	
-2019	Scotland	
-2020	Scotland	
-2021	Scotland	
-1995	Northern Ireland	
-1996	Northern Ireland	
-1997	Northern Ireland	
-1998	Northern Ireland	
-1999	Northern Ireland	
-2000	Northern Ireland	
-2001	Northern Ireland	
-2002	Northern Ireland	
-2003	Northern Ireland	
-2004	Northern Ireland	
-2005	Northern Ireland	
-2006	Northern Ireland	
-2007	Northern Ireland	
-2008	Northern Ireland	
-2009	Northern Ireland	
-2010	Northern Ireland	
-2011	Northern Ireland	
-2012	Northern Ireland	
-2013	Northern Ireland	
-2014	Northern Ireland	
-2015	Northern Ireland	
-2016	Northern Ireland	
-2017	Northern Ireland	
-2018	Northern Ireland	
-2019	Northern Ireland	
-2020	Northern Ireland	
-2021	Northern Ireland	
-1995	United Kingdom	
-1996	United Kingdom	
-1997	United Kingdom	
-1998	United Kingdom	
-1999	United Kingdom	
-2000	United Kingdom	
-2001	United Kingdom	
-2002	United Kingdom	
-2003	United Kingdom	
-2004	United Kingdom	
-2005	United Kingdom	
-2006	United Kingdom	
-2007	United Kingdom	
-2008	United Kingdom	
-2009	United Kingdom	
-2010	United Kingdom	
-2011	United Kingdom	
-2012	United Kingdom	
-2013	United Kingdom	
-2014	United Kingdom	
-2015	United Kingdom	
-2016	United Kingdom	
-2017	United Kingdom	
-2018	United Kingdom	
-2019	United Kingdom	
-2020	United Kingdom	
-2021	United Kingdom	
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+month	crimeType	reportedCrimes		
+1995	City of London	146043		
+1996	City of London	136344		
+1997	City of London	156418		
+1998	City of London	227377		
+1999	City of London	232854		
+2000	City of London	255964		
+2001	City of London	266277		
+2002	City of London	270879		
+2003	City of London	322733		
+2004	City of London	292696		
+2005	City of London	329697		
+2006	City of London	374654		
+2007	City of London	490706		
+2008	City of London	412940		
+2009	City of London	449611		
+2010	City of London	524581		
+2011	City of London	541192		
+2012	City of London	537160		
+2013	City of London	775504		
+2014	City of London	894046		
+2015	City of London	926292		
+2016	City of London	928037		
+2017	City of London	950760		
+2018	City of London	965842		
+2019	City of London	981354		
+2020	City of London	1254654		
+2021	City of London	1345060		
+1995	Barking and Dagenham	50165		
+1996	Barking and Dagenham	51680		
+1997	Barking and Dagenham	56222		
+1998	Barking and Dagenham	63874		
+1999	Barking and Dagenham	69544		
+2000	Barking and Dagenham	84111		
+2001	Barking and Dagenham	94451		
+2002	Barking and Dagenham	118795		
+2003	Barking and Dagenham	145661		
+2004	Barking and Dagenham	163828		
+2005	Barking and Dagenham	169663		
+2006	Barking and Dagenham	175139		
+2007	Barking and Dagenham	192859		
+2008	Barking and Dagenham	196942		
+2009	Barking and Dagenham	166483		
+2010	Barking and Dagenham	179018		
+2011	Barking and Dagenham	180165		
+2012	Barking and Dagenham	181471		
+2013	Barking and Dagenham	187943		
+2014	Barking and Dagenham	215810		
+2015	Barking and Dagenham	244126		
+2016	Barking and Dagenham	289176		
+2017	Barking and Dagenham	301518		
+2018	Barking and Dagenham	100000		
+2019	Barking and Dagenham	101111		
+2020	Barking and Dagenham	103000		
+2021	Barking and Dagenham	105000		
+1995	Barnet	111019		
+1996	Barnet	111203		
+1997	Barnet	135580		
+1998	Barnet	147673		
+1999	Barnet	173356		
+2000	Barnet	199147		
+2001	Barnet	220955		
+2002	Barnet	257942		
+2003	Barnet	284178		
+2004	Barnet	306902		
+2005	Barnet	318450		
+2006	Barnet	341937		
+2007	Barnet	380566		
+2008	Barnet	387784		
+2009	Barnet	382142		
+2010	Barnet	444386		
+2011	Barnet	440755		
+2012	Barnet	450269		
+2013	Barnet	479968		
+2014	Barnet	534786		
+2015	Barnet	566874		
+2016	Barnet	584202		
+2017	Barnet	667593		
+2018	Barnet	645512		
+2019	Barnet	785132		
+2020	Barnet	824658		
+2021	Barnet	864230		
+1995	Bexley	66294		
+1996	Bexley	69941		
+1997	Bexley	75484		
+1998	Bexley	85497		
+1999	Bexley	94395		
+2000	Bexley	109347		
+2001	Bexley	126216		
+2002	Bexley	151225		
+2003	Bexley	174984		
+2004	Bexley	188354		
+2005	Bexley	194798		
+2006	Bexley	209006		
+2007	Bexley	223771		
+2008	Bexley	219495		
+2009	Bexley	209521		
+2010	Bexley	226616		
+2011	Bexley	226283		
+2012	Bexley	225465		
+2013	Bexley	236952		
+2014	Bexley	267268		
+2015	Bexley	295262		
+2016	Bexley	340626		
+2017	Bexley	357779		
+2018	Bexley	361250		
+2019	Bexley	374850		
+2020	Bexley	395410		
+2021	Bexley	400000		
+1995	Brent	77258		
+1996	Brent	82824		
+1997	Brent	96499		
+1998	Brent	111868		
+1999	Brent	125958		
+2000	Brent	154194		
+2001	Brent	175865		
+2002	Brent	210014		
+2003	Brent	230062		
+2004	Brent	249534		
+2005	Brent	266301		
+2006	Brent	284109		
+2007	Brent	321197		
+2008	Brent	328763		
+2009	Brent	322691		
+2010	Brent	345055		
+2011	Brent	360423		
+2012	Brent	395126		
+2013	Brent	429877		
+2014	Brent	468859		
+2015	Brent	506322		
+2016	Brent	517497		
+2017	Brent	578705		
+2018	Brent	600000		
+2019	Brent	620000		
+2020	Brent	630000		
+2021	Brent	700000		
+1995	Bromley	93441		
+1996	Bromley	97597		
+1997	Bromley	105027		
+1998	Bromley	118048		
+1999	Bromley	138486		
+2000	Bromley	164025		
+2001	Bromley	182176		
+2002	Bromley	209252		
+2003	Bromley	238066		
+2004	Bromley	259452		
+2005	Bromley	267788		
+2006	Bromley	282058		
+2007	Bromley	316391		
+2008	Bromley	304375		
+2009	Bromley	301946		
+2010	Bromley	327306		
+2011	Bromley	336236		
+2012	Bromley	333020		
+2013	Bromley	354045		
+2014	Bromley	397487		
+2015	Bromley	441675		
+2016	Bromley	478142		
+2017	Bromley	502623		
+2018	Bromley	510000		
+2019	Bromley	530000		
+2020	Bromley	590000		
+2021	Bromley	620000		
+1995	Camden	151364		
+1996	Camden	168988		
+1997	Camden	193421		
+1998	Camden	220291		
+1999	Camden	248232		
+2000	Camden	311696		
+2001	Camden	339288		
+2002	Camden	377033		
+2003	Camden	377836		
+2004	Camden	411840		
+2005	Camden	440809		
+2006	Camden	492802		
+2007	Camden	562205		
+2008	Camden	656935		
+2009	Camden	600683		
+2010	Camden	716429		
+2011	Camden	724250		
+2012	Camden	780751		
+2013	Camden	836170		
+2014	Camden	966927		
+2015	Camden	1040035		
+2016	Camden	1063248		
+2017	Camden	1099876		
+2018	Camden	1100000		
+2019	Camden	1500000		
+2020	Camden	1800000		
+2021	Camden	1900000		
+1995	Croydon	71800		
+1996	Croydon	75678		
+1997	Croydon	83343		
+1998	Croydon	94296		
+1999	Croydon	107094		
+2000	Croydon	128084		
+2001	Croydon	144254		
+2002	Croydon	172274		
+2003	Croydon	196228		
+2004	Croydon	209354		
+2005	Croydon	218049		
+2006	Croydon	230773		
+2007	Croydon	247869		
+2008	Croydon	253571		
+2009	Croydon	233442		
+2010	Croydon	254458		
+2011	Croydon	256219		
+2012	Croydon	262587		
+2013	Croydon	271891		
+2014	Croydon	300572		
+2015	Croydon	340768		
+2016	Croydon	372054		
+2017	Croydon	399645		
+2018	Croydon	400000		
+2019	Croydon	410000		
+2020	Croydon	420000		
+2021	Croydon	430000		
+1995	Ealing	91045		
+1996	Ealing	97595		
+1997	Ealing	112582		
+1998	Ealing	126671		
+1999	Ealing	153236		
+2000	Ealing	176993		
+2001	Ealing	196261		
+2002	Ealing	227974		
+2003	Ealing	238760		
+2004	Ealing	260325		
+2005	Ealing	271985		
+2006	Ealing	292639		
+2007	Ealing	327798		
+2008	Ealing	327502		
+2009	Ealing	328818		
+2010	Ealing	350588		
+2011	Ealing	375143		
+2012	Ealing	397675		
+2013	Ealing	427847		
+2014	Ealing	501526		
+2015	Ealing	524967		
+2016	Ealing	553669		
+2017	Ealing	578110		
+2018	Ealing	590000		
+2019	Ealing	610000		
+2020	Ealing	620000		
+2021	Ealing	680000		
+1995	Enfield	78510		
+1996	Enfield	82956		
+1997	Enfield	95078		
+1998	Enfield	102483		
+1999	Enfield	113881		
+2000	Enfield	133086		
+2001	Enfield	154918		
+2002	Enfield	178250		
+2003	Enfield	205939		
+2004	Enfield	220110		
+2005	Enfield	228931		
+2006	Enfield	244472		
+2007	Enfield	267817		
+2008	Enfield	271592		
+2009	Enfield	266596		
+2010	Enfield	284303		
+2011	Enfield	285335		
+2012	Enfield	295101		
+2013	Enfield	309261		
+2014	Enfield	350007		
+2015	Enfield	389903		
+2016	Enfield	450294		
+2017	Enfield	463806		
+2018	Enfield	480000		
+2019	Enfield	600000		
+2020	Enfield	520000		
+2021	Enfield	540000		
+1995	Greenwich	73079		
+1996	Greenwich	76051		
+1997	Greenwich	82966		
+1998	Greenwich	93892		
+1999	Greenwich	111953		
+2000	Greenwich	130980		
+2001	Greenwich	148821		
+2002	Greenwich	176529		
+2003	Greenwich	194558		
+2004	Greenwich	208339		
+2005	Greenwich	225123		
+2006	Greenwich	237557		
+2007	Greenwich	260342		
+2008	Greenwich	267688		
+2009	Greenwich	264755		
+2010	Greenwich	296528		
+2011	Greenwich	296637		
+2012	Greenwich	293544		
+2013	Greenwich	330113		
+2014	Greenwich	369977		
+2015	Greenwich	401116		
+2016	Greenwich	445432		
+2017	Greenwich	462820		
+2018	Greenwich	490000		
+2019	Greenwich	500000		
+2020	Greenwich	520000		
+2021	Greenwich	560000		
+1995	Hackney	71607		
+1996	Hackney	75653		
+1997	Hackney	89193		
+1998	Hackney	103205		
+1999	Hackney	128381		
+2000	Hackney	155478		
+2001	Hackney	178984		
+2002	Hackney	204119		
+2003	Hackney	224569		
+2004	Hackney	236936		
+2005	Hackney	249624		
+2006	Hackney	275795		
+2007	Hackney	313566		
+2008	Hackney	318166		
+2009	Hackney	313700		
+2010	Hackney	345288		
+2011	Hackney	354522		
+2012	Hackney	379410		
+2013	Hackney	430254		
+2014	Hackney	501633		
+2015	Hackney	564761		
+2016	Hackney	602843		
+2017	Hackney	614955		
+2018	Hackney	610000		
+2019	Hackney	630000		
+2020	Hackney	670000		
+2021	Hackney	690000		
+1995	Hammersmith and Fulham	137774		
+1996	Hammersmith and Fulham	150521		
+1997	Hammersmith and Fulham	176577		
+1998	Hammersmith and Fulham	197311		
+1999	Hammersmith and Fulham	240838		
+2000	Hammersmith and Fulham	281619		
+2001	Hammersmith and Fulham	306977		
+2002	Hammersmith and Fulham	345434		
+2003	Hammersmith and Fulham	357956		
+2004	Hammersmith and Fulham	386124		
+2005	Hammersmith and Fulham	418105		
+2006	Hammersmith and Fulham	453325		
+2007	Hammersmith and Fulham	534857		
+2008	Hammersmith and Fulham	565249		
+2009	Hammersmith and Fulham	555613		
+2010	Hammersmith and Fulham	622446		
+2011	Hammersmith and Fulham	638126		
+2012	Hammersmith and Fulham	675674		
+2013	Hammersmith and Fulham	766921		
+2014	Hammersmith and Fulham	886074		
+2015	Hammersmith and Fulham	940897		
+2016	Hammersmith and Fulham	940225		
+2017	Hammersmith and Fulham	972231		
+2018	Hammersmith and Fulham	990000		
+2019	Hammersmith and Fulham	1000000		
+2020	Hammersmith and Fulham	1100000		
+2021	Hammersmith and Fulham	1200000		
+1995	Haringey	89630		
+1996	Haringey	102676		
+1997	Haringey	106794		
+1998	Haringey	123957		
+1999	Haringey	143404		
+2000	Haringey	169316		
+2001	Haringey	193583		
+2002	Haringey	226533		
+2003	Haringey	237220		
+2004	Haringey	259485		
+2005	Haringey	274262		
+2006	Haringey	305233		
+2007	Haringey	352754		
+2008	Haringey	346868		
+2009	Haringey	350064		
+2010	Haringey	395977		
+2011	Haringey	411253		
+2012	Haringey	416303		
+2013	Haringey	481674		
+2014	Haringey	542902		
+2015	Haringey	569499		
+2016	Haringey	606629		
+2017	Haringey	683987		
+2018	Haringey	700000		
+2019	Haringey	710000		
+2020	Haringey	740000		
+2021	Haringey	760000		
+1995	Harrow	90114		
+1996	Harrow	94547		
+1997	Harrow	109330		
+1998	Harrow	123547		
+1999	Harrow	142317		
+2000	Harrow	168105		
+2001	Harrow	185011		
+2002	Harrow	221864		
+2003	Harrow	254590		
+2004	Harrow	271431		
+2005	Harrow	281710		
+2006	Harrow	295528		
+2007	Harrow	320820		
+2008	Harrow	314681		
+2009	Harrow	290911		
+2010	Harrow	331517		
+2011	Harrow	343717		
+2012	Harrow	343714		
+2013	Harrow	369829		
+2014	Harrow	427077		
+2015	Harrow	461919		
+2016	Harrow	504811		
+2017	Harrow	527206		
+2018	Harrow	550000		
+2019	Harrow	580000		
+2020	Harrow	600000		
+2021	Harrow	610000		
+1995	Havering	75226		
+1996	Havering	79625		
+1997	Havering	84998		
+1998	Havering	95269		
+1999	Havering	106996		
+2000	Havering	122976		
+2001	Havering	136554		
+2002	Havering	163234		
+2003	Havering	192244		
+2004	Havering	208511		
+2005	Havering	219961		
+2006	Havering	227975		
+2007	Havering	246249		
+2008	Havering	246272		
+2009	Havering	225795		
+2010	Havering	257191		
+2011	Havering	248856		
+2012	Havering	245160		
+2013	Havering	257481		
+2014	Havering	284185		
+2015	Havering	317807		
+2016	Havering	358601		
+2017	Havering	387535		
+2018	Havering	400000		
+2019	Havering	420000		
+2020	Havering	440000		
+2021	Havering	450000		
+1995	Hillingdon	81489		
+1996	Hillingdon	84197		
+1997	Hillingdon	93055		
+1998	Hillingdon	103077		
+1999	Hillingdon	119189		
+2000	Hillingdon	141787		
+2001	Hillingdon	158026		
+2002	Hillingdon	183959		
+2003	Hillingdon	210379		
+2004	Hillingdon	223758		
+2005	Hillingdon	233399		
+2006	Hillingdon	253091		
+2007	Hillingdon	271401		
+2008	Hillingdon	268423		
+2009	Hillingdon	255440		
+2010	Hillingdon	282348		
+2011	Hillingdon	288639		
+2012	Hillingdon	296744		
+2013	Hillingdon	306450		
+2014	Hillingdon	348123		
+2015	Hillingdon	393842		
+2016	Hillingdon	439746		
+2017	Hillingdon	452272		
+2018	Hillingdon	480000		
+2019	Hillingdon	490000		
+2020	Hillingdon	500000		
+2021	Hillingdon	510000		
+1995	Hounslow	89489		
+1996	Hounslow	92155		
+1997	Hounslow	101768		
+1998	Hounslow	123952		
+1999	Hounslow	143128		
+2000	Hounslow	169888		
+2001	Hounslow	189187		
+2002	Hounslow	214367		
+2003	Hounslow	235931		
+2004	Hounslow	247790		
+2005	Hounslow	260221		
+2006	Hounslow	287101		
+2007	Hounslow	311925		
+2008	Hounslow	314107		
+2009	Hounslow	314530		
+2010	Hounslow	342719		
+2011	Hounslow	363455		
+2012	Hounslow	358795		
+2013	Hounslow	397806		
+2014	Hounslow	427360		
+2015	Hounslow	462024		
+2016	Hounslow	476268		
+2017	Hounslow	507876		
+2018	Hounslow	520000		
+2019	Hounslow	530000		
+2020	Hounslow	580000		
+2021	Hounslow	620000		
+1995	Islington	119917		
+1996	Islington	124792		
+1997	Islington	144903		
+1998	Islington	169409		
+1999	Islington	204670		
+2000	Islington	246055		
+2001	Islington	260959		
+2002	Islington	292153		
+2003	Islington	294619		
+2004	Islington	320209		
+2005	Islington	333339		
+2006	Islington	366741		
+2007	Islington	437251		
+2008	Islington	425669		
+2009	Islington	414331		
+2010	Islington	480212		
+2011	Islington	507197		
+2012	Islington	523617		
+2013	Islington	575438		
+2014	Islington	669869		
+2015	Islington	743764		
+2016	Islington	754514		
+2017	Islington	778290		
+2018	Islington	790000		
+2019	Islington	800000		
+2020	Islington	810000		
+2021	Islington	850000		
+1995	Kensington and Chelsea	263462		
+1996	Kensington and Chelsea	297757		
+1997	Kensington and Chelsea	347240		
+1998	Kensington and Chelsea	378450		
+1999	Kensington and Chelsea	432504		
+2000	Kensington and Chelsea	558627		
+2001	Kensington and Chelsea	583952		
+2002	Kensington and Chelsea	615562		
+2003	Kensington and Chelsea	660887		
+2004	Kensington and Chelsea	711106		
+2005	Kensington and Chelsea	756023		
+2006	Kensington and Chelsea	873065		
+2007	Kensington and Chelsea	1023870		
+2008	Kensington and Chelsea	1185892		
+2009	Kensington and Chelsea	1042685		
+2010	Kensington and Chelsea	1256272		
+2011	Kensington and Chelsea	1290725		
+2012	Kensington and Chelsea	1511383		
+2013	Kensington and Chelsea	1666682		
+2014	Kensington and Chelsea	1946177		
+2015	Kensington and Chelsea	1914363		
+2016	Kensington and Chelsea	1953392		
+2017	Kensington and Chelsea	2092485		
+2018	Kensington and Chelsea	2300000		
+2019	Kensington and Chelsea	2600000		
+2020	Kensington and Chelsea	2800000		
+2021	Kensington and Chelsea	2900000		
+1995	Kingston-upon-Thames	97860		
+1996	Kingston-upon-Thames	106789		
+1997	Kingston-upon-Thames	114268		
+1998	Kingston-upon-Thames	133869		
+1999	Kingston-upon-Thames	152164		
+2000	Kingston-upon-Thames	187757		
+2001	Kingston-upon-Thames	201931		
+2002	Kingston-upon-Thames	232365		
+2003	Kingston-upon-Thames	244841		
+2004	Kingston-upon-Thames	267525		
+2005	Kingston-upon-Thames	277468		
+2006	Kingston-upon-Thames	302953		
+2007	Kingston-upon-Thames	346884		
+2008	Kingston-upon-Thames	356364		
+2009	Kingston-upon-Thames	328180		
+2010	Kingston-upon-Thames	373249		
+2011	Kingston-upon-Thames	364948		
+2012	Kingston-upon-Thames	383982		
+2013	Kingston-upon-Thames	414419		
+2014	Kingston-upon-Thames	475081		
+2015	Kingston-upon-Thames	502091		
+2016	Kingston-upon-Thames	547214		
+2017	Kingston-upon-Thames	573938		
+2018	Kingston-upon-Thames	600000		
+2019	Kingston-upon-Thames	620000		
+2020	Kingston-upon-Thames	670000		
+2021	Kingston-upon-Thames	690000		
+1995	Lambeth	79654		
+1996	Lambeth	95723		
+1997	Lambeth	106315		
+1998	Lambeth	127297		
+1999	Lambeth	147147		
+2000	Lambeth	180931		
+2001	Lambeth	212198		
+2002	Lambeth	232540		
+2003	Lambeth	237940		
+2004	Lambeth	254231		
+2005	Lambeth	268878		
+2006	Lambeth	293653		
+2007	Lambeth	340604		
+2008	Lambeth	342138		
+2009	Lambeth	336758		
+2010	Lambeth	366963		
+2011	Lambeth	377944		
+2012	Lambeth	398776		
+2013	Lambeth	437456		
+2014	Lambeth	538040		
+2015	Lambeth	554122		
+2016	Lambeth	588579		
+2017	Lambeth	616126		
+2018	Lambeth	600000		
+2019	Lambeth	620000		
+2020	Lambeth	680000		
+2021	Lambeth	690000		
+1995	Lewisham	61562		
+1996	Lewisham	62846		
+1997	Lewisham	73183		
+1998	Lewisham	83082		
+1999	Lewisham	96266		
+2000	Lewisham	118227		
+2001	Lewisham	136125		
+2002	Lewisham	161305		
+2003	Lewisham	185154		
+2004	Lewisham	198402		
+2005	Lewisham	205393		
+2006	Lewisham	223323		
+2007	Lewisham	247998		
+2008	Lewisham	250581		
+2009	Lewisham	239481		
+2010	Lewisham	263878		
+2011	Lewisham	267820		
+2012	Lewisham	281909		
+2013	Lewisham	305825		
+2014	Lewisham	360998		
+2015	Lewisham	403589		
+2016	Lewisham	434769		
+2017	Lewisham	475142		
+2018	Lewisham	490000		
+2019	Lewisham	510000		
+2020	Lewisham	533000		
+2021	Lewisham	550000		
+1995	Merton	96344		
+1996	Merton	103989		
+1997	Merton	113866		
+1998	Merton	136021		
+1999	Merton	162996		
+2000	Merton	186627		
+2001	Merton	204604		
+2002	Merton	234692		
+2003	Merton	246892		
+2004	Merton	277341		
+2005	Merton	283600		
+2006	Merton	303443		
+2007	Merton	374834		
+2008	Merton	369174		
+2009	Merton	361132		
+2010	Merton	433780		
+2011	Merton	437253		
+2012	Merton	424513		
+2013	Merton	473134		
+2014	Merton	537708		
+2015	Merton	571363		
+2016	Merton	587371		
+2017	Merton	638519		
+2018	Merton	660000		
+2019	Merton	690000		
+2020	Merton	720000		
+2021	Merton	730000		
+1995	Newham	47528		
+1996	Newham	50082		
+1997	Newham	57380		
+1998	Newham	65286		
+1999	Newham	75326		
+2000	Newham	97266		
+2001	Newham	117223		
+2002	Newham	145563		
+2003	Newham	177796		
+2004	Newham	191477		
+2005	Newham	203395		
+2006	Newham	211861		
+2007	Newham	231013		
+2008	Newham	243171		
+2009	Newham	206115		
+2010	Newham	219872		
+2011	Newham	214915		
+2012	Newham	218974		
+2013	Newham	233074		
+2014	Newham	269497		
+2015	Newham	319348		
+2016	Newham	370476		
+2017	Newham	409477		
+2018	Newham	410000		
+2019	Newham	420000		
+2020	Newham	480000		
+2021	Newham	500000		
+1995	Redbridge	75003		
+1996	Redbridge	80572		
+1997	Redbridge	86048		
+1998	Redbridge	95245		
+1999	Redbridge	109668		
+2000	Redbridge	131900		
+2001	Redbridge	155125		
+2002	Redbridge	185697		
+2003	Redbridge	211539		
+2004	Redbridge	232737		
+2005	Redbridge	238364		
+2006	Redbridge	256576		
+2007	Redbridge	280740		
+2008	Redbridge	280700		
+2009	Redbridge	255681		
+2010	Redbridge	286209		
+2011	Redbridge	294854		
+2012	Redbridge	303591		
+2013	Redbridge	315401		
+2014	Redbridge	338667		
+2015	Redbridge	387917		
+2016	Redbridge	423130		
+2017	Redbridge	452437		
+2018	Redbridge	480000		
+2019	Redbridge	500000		
+2020	Redbridge	520000		
+2021	Redbridge	530000		
+1995	Richmond-upon-Thames	138737		
+1996	Richmond-upon-Thames	150296		
+1997	Richmond-upon-Thames	172729		
+1998	Richmond-upon-Thames	201779		
+1999	Richmond-upon-Thames	237840		
+2000	Richmond-upon-Thames	284503		
+2001	Richmond-upon-Thames	300995		
+2002	Richmond-upon-Thames	324221		
+2003	Richmond-upon-Thames	346906		
+2004	Richmond-upon-Thames	383815		
+2005	Richmond-upon-Thames	392783		
+2006	Richmond-upon-Thames	434585		
+2007	Richmond-upon-Thames	510950		
+2008	Richmond-upon-Thames	508911		
+2009	Richmond-upon-Thames	508409		
+2010	Richmond-upon-Thames	550796		
+2011	Richmond-upon-Thames	570178		
+2012	Richmond-upon-Thames	590459		
+2013	Richmond-upon-Thames	644778		
+2014	Richmond-upon-Thames	730459		
+2015	Richmond-upon-Thames	754191		
+2016	Richmond-upon-Thames	775357		
+2017	Richmond-upon-Thames	819044		
+2018	Richmond-upon-Thames	830000		
+2019	Richmond-upon-Thames	850000		
+2020	Richmond-upon-Thames	890000		
+2021	Richmond-upon-Thames	910000		
+1995	Southwark	84677		
+1996	Southwark	87617		
+1997	Southwark	103515		
+1998	Southwark	121755		
+1999	Southwark	142789		
+2000	Southwark	184697		
+2001	Southwark	209574		
+2002	Southwark	221727		
+2003	Southwark	240345		
+2004	Southwark	252682		
+2005	Southwark	273515		
+2006	Southwark	289173		
+2007	Southwark	332738		
+2008	Southwark	328055		
+2009	Southwark	338570		
+2010	Southwark	376688		
+2011	Southwark	400980		
+2012	Southwark	415796		
+2013	Southwark	441747		
+2014	Southwark	518144		
+2015	Southwark	583065		
+2016	Southwark	643858		
+2017	Southwark	641210		
+2018	Southwark	660000		
+2019	Southwark	690000		
+2020	Southwark	720000		
+2021	Southwark	760000		
+1995	Sutton	76952		
+1996	Sutton	79561		
+1997	Sutton	88169		
+1998	Sutton	100413		
+1999	Sutton	113447		
+2000	Sutton	138136		
+2001	Sutton	153408		
+2002	Sutton	177432		
+2003	Sutton	197763		
+2004	Sutton	212522		
+2005	Sutton	225682		
+2006	Sutton	239235		
+2007	Sutton	261248		
+2008	Sutton	259375		
+2009	Sutton	239794		
+2010	Sutton	264951		
+2011	Sutton	267042		
+2012	Sutton	272250		
+2013	Sutton	286681		
+2014	Sutton	322434		
+2015	Sutton	358826		
+2016	Sutton	387585		
+2017	Sutton	402121		
+2018	Sutton	440000		
+2019	Sutton	450000		
+2020	Sutton	490000		
+2021	Sutton	510000		
+1995	Tower Hamlets	76933		
+1996	Tower Hamlets	88715		
+1997	Tower Hamlets	110807		
+1998	Tower Hamlets	129367		
+1999	Tower Hamlets	159999		
+2000	Tower Hamlets	190411		
+2001	Tower Hamlets	208596		
+2002	Tower Hamlets	222708		
+2003	Tower Hamlets	237860		
+2004	Tower Hamlets	260847		
+2005	Tower Hamlets	265639		
+2006	Tower Hamlets	281493		
+2007	Tower Hamlets	333393		
+2008	Tower Hamlets	328379		
+2009	Tower Hamlets	333797		
+2010	Tower Hamlets	345385		
+2011	Tower Hamlets	345026		
+2012	Tower Hamlets	355588		
+2013	Tower Hamlets	383842		
+2014	Tower Hamlets	445319		
+2015	Tower Hamlets	483423		
+2016	Tower Hamlets	524508		
+2017	Tower Hamlets	554009		
+2018	Tower Hamlets	559000		
+2019	Tower Hamlets	590000		
+2020	Tower Hamlets	610000		
+2021	Tower Hamlets	620000		
+1995	Waltham Forest	58120		
+1996	Waltham Forest	60623		
+1997	Waltham Forest	67020		
+1998	Waltham Forest	77012		
+1999	Waltham Forest	88497		
+2000	Waltham Forest	105279		
+2001	Waltham Forest	123846		
+2002	Waltham Forest	155056		
+2003	Waltham Forest	178958		
+2004	Waltham Forest	195125		
+2005	Waltham Forest	205386		
+2006	Waltham Forest	218586		
+2007	Waltham Forest	245515		
+2008	Waltham Forest	238156		
+2009	Waltham Forest	220077		
+2010	Waltham Forest	236576		
+2011	Waltham Forest	240234		
+2012	Waltham Forest	251671		
+2013	Waltham Forest	281255		
+2014	Waltham Forest	334326		
+2015	Waltham Forest	384365		
+2016	Waltham Forest	431878		
+2017	Waltham Forest	459922		
+2018	Waltham Forest	490000		
+2019	Waltham Forest	510000		
+2020	Waltham Forest	530000		
+2021	Waltham Forest	590000		
+1995	Wandsworth	110955		
+1996	Wandsworth	120488		
+1997	Wandsworth	137915		
+1998	Wandsworth	156645		
+1999	Wandsworth	192372		
+2000	Wandsworth	233777		
+2001	Wandsworth	252378		
+2002	Wandsworth	285773		
+2003	Wandsworth	299813		
+2004	Wandsworth	335011		
+2005	Wandsworth	349202		
+2006	Wandsworth	395120		
+2007	Wandsworth	455751		
+2008	Wandsworth	444944		
+2009	Wandsworth	459109		
+2010	Wandsworth	493683		
+2011	Wandsworth	508691		
+2012	Wandsworth	532430		
+2013	Wandsworth	584510		
+2014	Wandsworth	681731		
+2015	Wandsworth	687589		
+2016	Wandsworth	775484		
+2017	Wandsworth	818443		
+2018	Wandsworth	830000		
+2019	Wandsworth	880000		
+2020	Wandsworth	920000		
+2021	Wandsworth	940000		
+1995	Westminster	183338		
+1996	Westminster	190417		
+1997	Westminster	228494		
+1998	Westminster	282269		
+1999	Westminster	307029		
+2000	Westminster	374658		
+2001	Westminster	410251		
+2002	Westminster	440783		
+2003	Westminster	457656		
+2004	Westminster	498794		
+2005	Westminster	545120		
+2006	Westminster	589613		
+2007	Westminster	693083		
+2008	Westminster	781173		
+2009	Westminster	742745		
+2010	Westminster	823306		
+2011	Westminster	958412		
+2012	Westminster	1147250		
+2013	Westminster	1299376		
+2014	Westminster	1464109		
+2015	Westminster	1361091		
+2016	Westminster	1579839		
+2017	Westminster	1718124		
+2018	Westminster	1900000		
+2019	Westminster	2000000		
+2020	Westminster	2200000		
+2021	Westminster	2300000		
+1995	North East	48970		
+1996	North East	50870		
+1997	North East	53908		
+1998	North East	55801		
+1999	North East	59292		
+2000	North East	61707		
+2001	North East	66108		
+2002	North East	76205		
+2003	North East	94299		
+2004	North East	115307		
+2005	North East	125999		
+2006	North East	136163		
+2007	North East	142069		
+2008	North East	141506		
+2009	North East	139768		
+2010	North East	143850		
+2011	North East	136736		
+2012	North East	139034		
+2013	North East	141292		
+2014	North East	148461		
+2015	North East	153507		
+2016	North East	156632		
+2017	North East	159970		
+2018	North East	160000		
+2019	North East	163000		
+2020	North East	166000		
+2021	North East	167000		
+1995	North West	52590		
+1996	North West	54395		
+1997	North West	58286		
+1998	North West	60745		
+1999	North West	65496		
+2000	North West	69803		
+2001	North West	76908		
+2002	North West	88315		
+2003	North West	104548		
+2004	North West	126472		
+2005	North West	138266		
+2006	North West	150243		
+2007	North West	159618		
+2008	North West	156614		
+2009	North West	154472		
+2010	North West	159524		
+2011	North West	154790		
+2012	North West	155770		
+2013	North West	159018		
+2014	North West	166132		
+2015	North West	173132		
+2016	North West	180124		
+2017	North West	188752		
+2018	North West	190000		
+2019	North West	192000		
+2020	North West	195000		
+2021	North West	194000		
+1995	London	97628		
+1996	London	105337		
+1997	London	119761		
+1998	London	135009		
+1999	London	158324		
+2000	London	188703		
+2001	London	204829		
+2002	London	233259		
+2003	London	250629		
+2004	London	274021		
+2005	London	290202		
+2006	London	315956		
+2007	London	352750		
+2008	London	361738		
+2009	London	362673		
+2010	London	408107		
+2011	London	421278		
+2012	London	437523		
+2013	London	473780		
+2014	London	525204		
+2015	London	545352		
+2016	London	586093		
+2017	London	620074		
+2018	London	650000		
+2019	London	680000		
+2020	London	720000		
+2021	London	750000		
+1995	South East	82309		
+1996	South East	86110		
+1997	South East	94318		
+1998	South East	106179		
+1999	South East	119748		
+2000	South East	140957		
+2001	South East	156452		
+2002	South East	181320		
+2003	South East	203045		
+2004	South East	222446		
+2005	South East	231476		
+2006	South East	246776		
+2007	South East	267566		
+2008	South East	267494		
+2009	South East	253991		
+2010	South East	284693		
+2011	South East	280150		
+2012	South East	284558		
+2013	South East	292367		
+2014	South East	311819		
+2015	South East	331847		
+2016	South East	354874		
+2017	South East	374182		
+2018	South East	390000		
+2019	South East	400000		
+2020	South East	420000		
+2021	South East	450000		
+1995	South West	65817		
+1996	South West	68242		
+1997	South West	74458		
+1998	South West	80792		
+1999	South West	90425		
+2000	South West	105025		
+2001	South West	118879		
+2002	South West	144182		
+2003	South West	168759		
+2004	South West	190643		
+2005	South West	198119		
+2006	South West	209580		
+2007	South West	228149		
+2008	South West	222073		
+2009	South West	210709		
+2010	South West	228632		
+2011	South West	223870		
+2012	South West	224870		
+2013	South West	228147		
+2014	South West	240062		
+2015	South West	252917		
+2016	South West	265893		
+2017	South West	281792		
+2018	South West	290000		
+2019	South West	300000		
+2020	South West	320000		
+2021	South West	330000		
+1995	England	68670		
+1996	England	72336		
+1997	England	79523		
+1998	England	86601		
+1999	England	97415		
+2000	England	109419		
+2001	England	121082		
+2002	England	140578		
+2003	England	158460		
+2004	England	180678		
+2005	England	191471		
+2006	England	191471		
+2007	England	222011		
+2008	England	219924		
+2009	England	216268		
+2010	England	239906		
+2011	England	236553		
+2012	England	242254		
+2013	England	251621		
+2014	England	265561		
+2015	England	277277		
+2016	England	288512		
+2017	England	299037		
+2018	England	300000		
+2019	England	320000		
+2020	England	330000		
+2021	England	350000		
+1995	Wales	51688		
+1996	Wales	55075		
+1997	Wales	57738		
+1998	Wales	62187		
+1999	Wales	67116		
+2000	Wales	73324		
+2001	Wales	86000		
+2002	Wales	104353		
+2003	Wales	129361		
+2004	Wales	142085		
+2005	Wales	152090		
+2006	Wales	161038		
+2007	Wales	155173		
+2008	Wales	151784		
+2009	Wales	154801		
+2010	Wales	152261		
+2011	Wales	152865		
+2012	Wales	154589		
+2013	Wales	160898		
+2014	Wales	165452		
+2015	Wales	171835		
+2016	Wales	176534		
+2017	Wales	179000		
+2018	Wales	180000		
+2019	Wales	182000		
+2020	Wales	183000		
+1995	Scotland	67883		
+1996	Scotland	71449		
+1997	Scotland	78460		
+1998	Scotland	85368		
+1999	Scotland	95967		
+2000	Scotland	107397		
+2001	Scotland	118789		
+2002	Scotland	137858		
+2003	Scotland	155672		
+2004	Scotland	178315		
+2005	Scotland	189235		
+2006	Scotland	203383		
+2007	Scotland	219225		
+2008	Scotland	216799		
+2009	Scotland	213274		
+2010	Scotland	235948		
+2011	Scotland	232652		
+2012	Scotland	238163		
+2013	Scotland	247172		
+2014	Scotland	260750		
+2015	Scotland	271976		
+2016	Scotland	282738		
+2017	Scotland	292550		
+2018	Scotland	300000		
+2019	Scotland	310000		
+2020	Scotland	320000		
+2021	Scotland	330000		
+1995	Northern Ireland	45000		
+1996	Northern Ireland	47000		
+1997	Northern Ireland	52000		
+1998	Northern Ireland	56000		
+1999	Northern Ireland	60000		
+2000	Northern Ireland	65000		
+2001	Northern Ireland	72000		
+2002	Northern Ireland	85000		
+2003	Northern Ireland	101000		
+2004	Northern Ireland	115000		
+2005	Northern Ireland	130000		
+2006	Northern Ireland	150000		
+2007	Northern Ireland	175000		
+2008	Northern Ireland	175000		
+2009	Northern Ireland	160000		
+2010	Northern Ireland	150000		
+2011	Northern Ireland	140000		
+2012	Northern Ireland	135000		
+2013	Northern Ireland	133000		
+2014	Northern Ireland	140000		
+2015	Northern Ireland	148000		
+2016	Northern Ireland	153000		
+2017	Northern Ireland	160000		
+2018	Northern Ireland	165000		
+2019	Northern Ireland	170000		
+2020	Northern Ireland	175000		
+2021	Northern Ireland	179000		
+1995	United Kingdom	70000		
+1996	United Kingdom	75000		
+1997	United Kingdom	80000		
+1998	United Kingdom	85000		
+1999	United Kingdom	93000		
+2000	United Kingdom	98000		
+2001	United Kingdom	103000		
+2002	United Kingdom	110000		
+2003	United Kingdom	120000		
+2004	United Kingdom	130000		
+2005	United Kingdom	145000		
+2006	United Kingdom	160000		
+2007	United Kingdom	185000		
+2008	United Kingdom	175000		
+2009	United Kingdom	165000		
+2010	United Kingdom	170000		
+2011	United Kingdom	180000		
+2012	United Kingdom	190000		
+2013	United Kingdom	200000		
+2014	United Kingdom	210000		
+2015	United Kingdom	220000		
+2016	United Kingdom	225000		
+2017	United Kingdom	230000		
+2018	United Kingdom	235000		
+2019	United Kingdom	240000		
+2020	United Kingdom	250000		
+2021	United Kingdom	270000		
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
