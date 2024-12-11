@@ -1,1181 +1,1181 @@
 month	crimeType	reportedCrimes
-2011-01	City of London	8406
-2011-02	City of London	8728
-2011-03	City of London	10329
-2011-04	City of London	13753
-2011-05	City of London	11814
-2011-06	City of London	11741
-2011-07	City of London	12847
-2011-08	City of London	11992
-2011-09	City of London	8389
-2011-10	City of London	8301
-2011-11	City of London	6600
-2011-12	City of London	6015
-2012-01	City of London	5840
-2012-02	City of London	6403
-2012-03	City of London	7262
-2012-04	City of London	6193
-2012-05	City of London	7266
-2012-06	City of London	6694
-2012-07	City of London	8157
-2012-08	City of London	8342
-2012-09	City of London	6879
-2012-10	City of London	6479
-2012-11	City of London	5503
-2012-12	City of London	5318
-2013-01	City of London	6863
-2013-02	City of London	5142
-2013-03	City of London	5468
-2013-04	Barking and Dagenham	6155
-2013-05	Barking and Dagenham	6445
-2013-06	Barking and Dagenham	6648
-2013-07	Barking and Dagenham	8792
-2013-08	Barking and Dagenham	7971
-2013-09	Barking and Dagenham	5955
-2013-10	Barking and Dagenham	5914
-2013-11	Barking and Dagenham	5159
-2013-12	Barking and Dagenham	4749
-2014-01	Barking and Dagenham	4510
-2014-02	Barking and Dagenham	4285
-2014-03	Barking and Dagenham	5685
-2014-04	Barking and Dagenham	6081
-2014-05	Barking and Dagenham	6296
-2014-06	Barking and Dagenham	7099
-2014-07	Barking and Dagenham	7742
-2014-08	Barking and Dagenham	6695
-2014-09	Barking and Dagenham	6422
-2014-10	Barking and Dagenham	5923
-2014-11	Barking and Dagenham	4962
-2014-12	Barking and Dagenham	4188
-2015-01	Barking and Dagenham	4438
-2015-02	Barking and Dagenham	4217
-2015-03	Barking and Dagenham	4778
-2015-04	Barking and Dagenham	5484
-2015-05	Barking and Dagenham	5388
-2015-06	Barking and Dagenham	6207
-2015-07	Barnet	6066
-2015-08	Barnet	5865
-2015-09	Barnet	5248
-2015-10	Barnet	5515
-2015-11	Barnet	4398
-2015-12	Barnet	4074
-2016-01	Barnet	3993
-2016-02	Barnet	4158
-2016-03	Barnet	4687
-2016-04	Barnet	4885
-2016-05	Barnet	5643
-2016-06	Barnet	5653
-2016-07	Barnet	6306
-2016-08	Barnet	5879
-2016-09	Barnet	5228
-2016-10	Barnet	5647
-2016-11	Barnet	4003
-2016-12	Barnet	3935
-2014-10	Barnet	1903
-2014-11	Barnet	2073
-2014-12	Barnet	1928
-2015-01	Barnet	1924
-2015-02	Barnet	1595
-2015-03	Barnet	1843
-2015-04	Barnet	1685
-2015-05	Barnet	1719
-2015-06	Barnet	1683
-2015-07	Bexley	1778
-2015-08	Bexley	1769
-2015-09	Bexley	1574
-2015-10	Bexley	1895
-2015-11	Bexley	2099
-2015-12	Bexley	1926
-2016-01	Bexley	2079
-2016-02	Bexley	1969
-2016-03	Bexley	2136
-2016-04	Bexley	1764
-2016-05	Bexley	1697
-2016-06	Bexley	1632
-2016-07	Bexley	1709
-2016-08	Bexley	1960
-2016-09	Bexley	2090
-2016-10	Bexley	2117
-2016-11	Bexley	2386
-2016-12	Bexley	2207
-2011-09	Bexley	2485
-2011-10	Bexley	2610
-2011-11	Bexley	2487
-2011-12	Bexley	2282
-2012-01	Bexley	2183
-2012-02	Bexley	2201
-2012-03	Bexley	2385
-2012-04	Bexley	2055
-2012-05	Bexley	2161
-2012-06	Brent	1938
-2012-07	Brent	2139
-2012-08	Brent	2197
-2012-09	Brent	2117
-2012-10	Brent	2150
-2012-11	Brent	1997
-2012-12	Brent	2074
-2013-01	Brent	1954
-2013-02	Brent	1910
-2013-03	Brent	1812
-2013-04	Brent	2194
-2013-05	Brent	2143
-2013-06	Brent	2180
-2013-07	Brent	2205
-2013-08	Brent	2200
-2013-09	Brent	1998
-2013-10	Brent	2085
-2013-11	Brent	2097
-2013-12	Brent	2085
-2014-01	Brent	2028
-2014-02	Brent	1824
-2014-03	Brent	2102
-2014-04	Brent	2045
-2014-05	Brent	2006
-2014-06	Brent	2006
-2014-07	Brent	2037
-2014-08	Brent	2066
-2014-09	Bromley	2159
-2014-10	Bromley	2069
-2014-11	Bromley	2108
-2014-12	Bromley	1881
-2015-01	Bromley	2010
-2015-02	Bromley	1885
-2015-03	Bromley	2144
-2015-04	Bromley	1976
-2015-05	Bromley	2161
-2015-06	Bromley	2084
-2015-07	Bromley	2055
-2015-08	Bromley	1980
-2015-09	Bromley	2059
-2015-10	Bromley	2104
-2015-11	Bromley	2077
-2015-12	Bromley	2093
-2016-01	Bromley	1934
-2016-02	Bromley	1981
-2016-03	Bromley	2098
-2016-04	Bromley	2009
-2016-05	Bromley	2189
-2016-06	Bromley	1971
-2016-07	Bromley	2149
-2016-08	Bromley	2147
-2016-09	Bromley	2030
-2016-10	Bromley	2321
-2016-11	Bromley	2144
-2016-12	Camden	2203
-2011-09	Camden	652
-2011-10	Camden	820
-2011-11	Camden	790
-2011-12	Camden	693
-2012-01	Camden	676
-2012-02	Camden	707
-2012-03	Camden	719
-2012-04	Camden	691
-2012-05	Camden	833
-2012-06	Camden	705
-2012-07	Camden	762
-2012-08	Camden	813
-2012-09	Camden	601
-2012-10	Camden	728
-2012-11	Camden	712
-2012-12	Camden	601
-2013-01	Camden	598
-2013-02	Camden	629
-2013-03	Camden	646
-2013-04	Camden	693
-2013-05	Camden	693
-2013-06	Camden	671
-2013-07	Camden	627
-2013-08	Camden	578
-2013-09	Camden	552
-2013-10	Camden	556
-2013-11	Croydon	557
-2013-12	Croydon	628
-2014-01	Croydon	509
-2014-02	Croydon	459
-2014-03	Croydon	594
-2014-04	Croydon	521
-2014-05	Croydon	553
-2014-06	Croydon	523
-2014-07	Croydon	451
-2014-08	Croydon	443
-2014-09	Croydon	453
-2014-10	Croydon	498
-2014-11	Croydon	531
-2014-12	Croydon	474
-2015-01	Croydon	485
-2015-02	Croydon	414
-2015-03	Croydon	474
-2015-04	Croydon	493
-2015-05	Croydon	476
-2015-06	Croydon	503
-2015-07	Croydon	452
-2015-08	Croydon	443
-2015-09	Croydon	459
-2015-10	Croydon	486
-2015-11	Croydon	422
-2015-12	Croydon	507
-2016-01	Croydon	496
-2016-02	Ealing	435
-2016-03	Ealing	522
-2016-04	Ealing	478
-2016-05	Ealing	452
-2016-06	Ealing	440
-2016-07	Ealing	393
-2016-08	Ealing	334
-2016-09	Ealing	365
-2016-10	Ealing	388
-2016-11	Ealing	358
-2016-12	Ealing	311
-2011-01	Ealing	798
-2011-02	Ealing	807
-2011-03	Ealing	817
-2011-04	Ealing	712
-2011-05	Ealing	737
-2011-06	Ealing	726
-2011-07	Ealing	649
-2011-08	Ealing	644
-2011-09	Ealing	529
-2011-10	Ealing	581
-2011-11	Ealing	578
-2011-12	Ealing	531
-2012-01	Ealing	562
-2012-02	Ealing	501
-2012-03	Ealing	555
-2012-04	Ealing	512
-2012-05	Enfield	487
-2012-06	Enfield	453
-2012-07	Enfield	415
-2012-08	Enfield	428
-2012-09	Enfield	429
-2012-10	Enfield	444
-2012-11	Enfield	461
-2012-12	Enfield	468
-2013-01	Enfield	471
-2013-02	Enfield	460
-2013-03	Enfield	455
-2013-04	Enfield	448
-2013-05	Enfield	460
-2013-06	Enfield	459
-2013-07	Enfield	431
-2013-08	Enfield	445
-2013-09	Enfield	426
-2013-10	Enfield	451
-2013-11	Enfield	396
-2013-12	Enfield	481
-2014-01	Enfield	496
-2014-02	Enfield	477
-2014-03	Enfield	471
-2014-04	Enfield	376
-2014-05	Enfield	398
-2014-06	Enfield	404
-2014-07	Enfield	373
-2014-08	Greenwich	395
-2014-09	Greenwich	473
-2014-10	Greenwich	398
-2014-11	Greenwich	461
-2014-12	Greenwich	434
-2015-01	Greenwich	421
-2015-02	Greenwich	370
-2015-03	Greenwich	418
-2015-04	Greenwich	334
-2015-05	Greenwich	414
-2015-06	Greenwich	366
-2015-07	Greenwich	396
-2015-08	Greenwich	384
-2015-09	Greenwich	408
-2015-10	Greenwich	442
-2015-11	Greenwich	417
-2015-12	Greenwich	435
-2016-01	Greenwich	472
-2016-02	Greenwich	417
-2016-03	Greenwich	446
-2016-04	Greenwich	431
-2016-05	Greenwich	453
-2016-06	Greenwich	428
-2016-07	Greenwich	450
-2016-08	Greenwich	499
-2016-09	Greenwich	425
-2016-10	Greenwich	562
-2016-11	Hackney	496
-2016-12	Hackney	511
-2011-01	Hackney	2473
-2011-02	Hackney	2358
-2011-03	Hackney	2347
-2011-04	Hackney	2081
-2011-05	Hackney	2456
-2011-06	Hackney	2132
-2011-07	Hackney	1987
-2011-08	Hackney	2030
-2011-09	Hackney	2313
-2011-10	Hackney	2238
-2011-11	Hackney	2199
-2011-12	Hackney	1928
-2012-01	Hackney	1937
-2012-02	Hackney	1786
-2012-03	Hackney	2033
-2012-04	Hackney	1914
-2012-05	Hackney	1868
-2012-06	Hackney	1737
-2012-07	Hackney	1837
-2012-08	Hackney	1902
-2012-09	Hackney	2016
-2012-10	Hackney	2042
-2012-11	Hackney	2063
-2012-12	Hackney	1869
-2013-01	Hackney	1806
-2013-02	Hammersmith and Fulham	1690
-2013-03	Hammersmith and Fulham	2001
-2013-04	Hammersmith and Fulham	1966
-2013-05	Hammersmith and Fulham	1867
-2013-06	Hammersmith and Fulham	1933
-2013-07	Hammersmith and Fulham	1864
-2013-08	Hammersmith and Fulham	1895
-2013-09	Hammersmith and Fulham	1928
-2013-10	Hammersmith and Fulham	2176
-2013-11	Hammersmith and Fulham	2021
-2013-12	Hammersmith and Fulham	1927
-2014-01	Hammersmith and Fulham	1946
-2014-02	Hammersmith and Fulham	1824
-2014-03	Hammersmith and Fulham	2159
-2014-04	Hammersmith and Fulham	1825
-2014-05	Hammersmith and Fulham	1854
-2014-06	Hammersmith and Fulham	1926
-2014-07	Hammersmith and Fulham	1896
-2014-08	Hammersmith and Fulham	1946
-2014-09	Hammersmith and Fulham	2092
-2014-10	Hammersmith and Fulham	2302
-2014-11	Hammersmith and Fulham	2278
-2014-12	Hammersmith and Fulham	2168
-2015-01	Hammersmith and Fulham	2195
-2015-02	Hammersmith and Fulham	1964
-2015-03	Hammersmith and Fulham	1949
-2015-04	Hammersmith and Fulham	1817
-2015-05	Haringey	2087
-2015-06	Haringey	2040
-2015-07	Haringey	2122
-2015-08	Haringey	2058
-2015-09	Haringey	2210
-2015-10	Haringey	2179
-2015-11	Haringey	2264
-2015-12	Haringey	2192
-2016-01	Haringey	2263
-2016-02	Haringey	2018
-2016-03	Haringey	2218
-2016-04	Haringey	2046
-2016-05	Haringey	2158
-2016-06	Haringey	2102
-2016-07	Haringey	2358
-2016-08	Haringey	2488
-2016-09	Haringey	2753
-2016-10	Haringey	2966
-2016-11	Haringey	2963
-2016-12	Haringey	2773
-	Haringey	
-	Haringey	
-	Haringey	
-	Haringey	
-	Haringey	
-	Haringey	
-	Haringey	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Harrow	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Havering	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hillingdon	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Hounslow	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Islington	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kensington and Chelsea	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Kingston-upon-Thames	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lambeth	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Lewisham	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Merton	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Newham	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Redbridge	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Richmond-upon-Thames	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Southwark	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Sutton	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Tower Hamlets	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Waltham Forest	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Wandsworth	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	Westminster	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North East	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	North West	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	London	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South East	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	South West	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	England	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Wales	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Scotland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	Northern Ireland	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
-	United Kingdom	
+1995	City of London	8406
+1996	City of London	8728
+1997	City of London	10329
+1998	City of London	13753
+1999	City of London	11814
+2000	City of London	11741
+2001	City of London	12847
+2002	City of London	11992
+2003	City of London	8389
+2004	City of London	8301
+2005	City of London	6600
+2006	City of London	6015
+2007	City of London	5840
+2008	City of London	6403
+2009	City of London	7262
+2010	City of London	6193
+2011	City of London	7266
+2012	City of London	6694
+2013	City of London	8157
+2014	City of London	8342
+2015	City of London	6879
+2016	City of London	6479
+2017	City of London	5503
+2018	City of London	5318
+2019	City of London	6863
+2020	City of London	5142
+2021	City of London	5468
+1995	Barking and Dagenham	6155
+1996	Barking and Dagenham	6445
+1997	Barking and Dagenham	6648
+1998	Barking and Dagenham	8792
+1999	Barking and Dagenham	7971
+2000	Barking and Dagenham	5955
+2001	Barking and Dagenham	5914
+2002	Barking and Dagenham	5159
+2003	Barking and Dagenham	4749
+2004	Barking and Dagenham	4510
+2005	Barking and Dagenham	4285
+2006	Barking and Dagenham	5685
+2007	Barking and Dagenham	6081
+2008	Barking and Dagenham	6296
+2009	Barking and Dagenham	7099
+2010	Barking and Dagenham	7742
+2011	Barking and Dagenham	6695
+2012	Barking and Dagenham	6422
+2013	Barking and Dagenham	5923
+2014	Barking and Dagenham	4962
+2015	Barking and Dagenham	4188
+2016	Barking and Dagenham	4438
+2017	Barking and Dagenham	4217
+2018	Barking and Dagenham	4778
+2019	Barking and Dagenham	5484
+2020	Barking and Dagenham	5388
+2021	Barking and Dagenham	6207
+1995	Barnet	6066
+1996	Barnet	5865
+1997	Barnet	5248
+1998	Barnet	5515
+1999	Barnet	4398
+2000	Barnet	4074
+2001	Barnet	3993
+2002	Barnet	4158
+2003	Barnet	4687
+2004	Barnet	4885
+2005	Barnet	5643
+2006	Barnet	5653
+2007	Barnet	6306
+2008	Barnet	5879
+2009	Barnet	5228
+2010	Barnet	5647
+2011	Barnet	4003
+2012	Barnet	3935
+2013	Barnet	1903
+2014	Barnet	2073
+2015	Barnet	1928
+2016	Barnet	1924
+2017	Barnet	1595
+2018	Barnet	1843
+2019	Barnet	1685
+2020	Barnet	1719
+2021	Barnet	1683
+1995	Bexley	1778
+1996	Bexley	1769
+1997	Bexley	1574
+1998	Bexley	1895
+1999	Bexley	2099
+2000	Bexley	1926
+2001	Bexley	2079
+2002	Bexley	1969
+2003	Bexley	2136
+2004	Bexley	1764
+2005	Bexley	1697
+2006	Bexley	1632
+2007	Bexley	1709
+2008	Bexley	1960
+2009	Bexley	2090
+2010	Bexley	2117
+2011	Bexley	2386
+2012	Bexley	2207
+2013	Bexley	2485
+2014	Bexley	2610
+2015	Bexley	2487
+2016	Bexley	2282
+2017	Bexley	2183
+2018	Bexley	2201
+2019	Bexley	2385
+2020	Bexley	2055
+2021	Bexley	2161
+1995	Brent	1938
+1996	Brent	2139
+1997	Brent	2197
+1998	Brent	2117
+1999	Brent	2150
+2000	Brent	1997
+2001	Brent	2074
+2002	Brent	1954
+2003	Brent	1910
+2004	Brent	1812
+2005	Brent	2194
+2006	Brent	2143
+2007	Brent	2180
+2008	Brent	2205
+2009	Brent	2200
+2010	Brent	1998
+2011	Brent	2085
+2012	Brent	2097
+2013	Brent	2085
+2014	Brent	2028
+2015	Brent	1824
+2016	Brent	2102
+2017	Brent	2045
+2018	Brent	2006
+2019	Brent	2006
+2020	Brent	2037
+2021	Brent	2066
+1995	Bromley	2159
+1996	Bromley	2069
+1997	Bromley	2108
+1998	Bromley	1881
+1999	Bromley	2010
+2000	Bromley	1885
+2001	Bromley	2144
+2002	Bromley	1976
+2003	Bromley	2161
+2004	Bromley	2084
+2005	Bromley	2055
+2006	Bromley	1980
+2007	Bromley	2059
+2008	Bromley	2104
+2009	Bromley	2077
+2010	Bromley	2093
+2011	Bromley	1934
+2012	Bromley	1981
+2013	Bromley	2098
+2014	Bromley	2009
+2015	Bromley	2189
+2016	Bromley	1971
+2017	Bromley	2149
+2018	Bromley	2147
+2019	Bromley	2030
+2020	Bromley	2321
+2021	Bromley	2144
+1995	Camden	2203
+1996	Camden	652
+1997	Camden	820
+1998	Camden	790
+1999	Camden	693
+2000	Camden	676
+2001	Camden	707
+2002	Camden	719
+2003	Camden	691
+2004	Camden	833
+2005	Camden	705
+2006	Camden	762
+2007	Camden	813
+2008	Camden	601
+2009	Camden	728
+2010	Camden	712
+2011	Camden	601
+2012	Camden	598
+2013	Camden	629
+2014	Camden	646
+2015	Camden	693
+2016	Camden	693
+2017	Camden	671
+2018	Camden	627
+2019	Camden	578
+2020	Camden	552
+2021	Camden	556
+1995	Croydon	557
+1996	Croydon	628
+1997	Croydon	509
+1998	Croydon	459
+1999	Croydon	594
+2000	Croydon	521
+2001	Croydon	553
+2002	Croydon	523
+2003	Croydon	451
+2004	Croydon	443
+2005	Croydon	453
+2006	Croydon	498
+2007	Croydon	531
+2008	Croydon	474
+2009	Croydon	485
+2010	Croydon	414
+2011	Croydon	474
+2012	Croydon	493
+2013	Croydon	476
+2014	Croydon	503
+2015	Croydon	452
+2016	Croydon	443
+2017	Croydon	459
+2018	Croydon	486
+2019	Croydon	422
+2020	Croydon	507
+2021	Croydon	496
+1995	Ealing	435
+1996	Ealing	522
+1997	Ealing	478
+1998	Ealing	452
+1999	Ealing	440
+2000	Ealing	393
+2001	Ealing	334
+2002	Ealing	365
+2003	Ealing	388
+2004	Ealing	358
+2005	Ealing	311
+2006	Ealing	798
+2007	Ealing	807
+2008	Ealing	817
+2009	Ealing	712
+2010	Ealing	737
+2011	Ealing	726
+2012	Ealing	649
+2013	Ealing	644
+2014	Ealing	529
+2015	Ealing	581
+2016	Ealing	578
+2017	Ealing	531
+2018	Ealing	562
+2019	Ealing	501
+2020	Ealing	555
+2021	Ealing	512
+1995	Enfield	487
+1996	Enfield	453
+1997	Enfield	415
+1998	Enfield	428
+1999	Enfield	429
+2000	Enfield	444
+2001	Enfield	461
+2002	Enfield	468
+2003	Enfield	471
+2004	Enfield	460
+2005	Enfield	455
+2006	Enfield	448
+2007	Enfield	460
+2008	Enfield	459
+2009	Enfield	431
+2010	Enfield	445
+2011	Enfield	426
+2012	Enfield	451
+2013	Enfield	396
+2014	Enfield	481
+2015	Enfield	496
+2016	Enfield	477
+2017	Enfield	471
+2018	Enfield	376
+2019	Enfield	398
+2020	Enfield	404
+2021	Enfield	373
+1995	Greenwich	395
+1996	Greenwich	473
+1997	Greenwich	398
+1998	Greenwich	461
+1999	Greenwich	434
+2000	Greenwich	421
+2001	Greenwich	370
+2002	Greenwich	418
+2003	Greenwich	334
+2004	Greenwich	414
+2005	Greenwich	366
+2006	Greenwich	396
+2007	Greenwich	384
+2008	Greenwich	408
+2009	Greenwich	442
+2010	Greenwich	417
+2011	Greenwich	435
+2012	Greenwich	472
+2013	Greenwich	417
+2014	Greenwich	446
+2015	Greenwich	431
+2016	Greenwich	453
+2017	Greenwich	428
+2018	Greenwich	450
+2019	Greenwich	499
+2020	Greenwich	425
+2021	Greenwich	562
+1995	Hackney	496
+1996	Hackney	511
+1997	Hackney	2473
+1998	Hackney	2358
+1999	Hackney	2347
+2000	Hackney	2081
+2001	Hackney	2456
+2002	Hackney	2132
+2003	Hackney	1987
+2004	Hackney	2030
+2005	Hackney	2313
+2006	Hackney	2238
+2007	Hackney	2199
+2008	Hackney	1928
+2009	Hackney	1937
+2010	Hackney	1786
+2011	Hackney	2033
+2012	Hackney	1914
+2013	Hackney	1868
+2014	Hackney	1737
+2015	Hackney	1837
+2016	Hackney	1902
+2017	Hackney	2016
+2018	Hackney	2042
+2019	Hackney	2063
+2020	Hackney	1869
+2021	Hackney	1806
+1995	Hammersmith and Fulham	1690
+1996	Hammersmith and Fulham	2001
+1997	Hammersmith and Fulham	1966
+1998	Hammersmith and Fulham	1867
+1999	Hammersmith and Fulham	1933
+2000	Hammersmith and Fulham	1864
+2001	Hammersmith and Fulham	1895
+2002	Hammersmith and Fulham	1928
+2003	Hammersmith and Fulham	2176
+2004	Hammersmith and Fulham	2021
+2005	Hammersmith and Fulham	1927
+2006	Hammersmith and Fulham	1946
+2007	Hammersmith and Fulham	1824
+2008	Hammersmith and Fulham	2159
+2009	Hammersmith and Fulham	1825
+2010	Hammersmith and Fulham	1854
+2011	Hammersmith and Fulham	1926
+2012	Hammersmith and Fulham	1896
+2013	Hammersmith and Fulham	1946
+2014	Hammersmith and Fulham	2092
+2015	Hammersmith and Fulham	2302
+2016	Hammersmith and Fulham	2278
+2017	Hammersmith and Fulham	2168
+2018	Hammersmith and Fulham	2195
+2019	Hammersmith and Fulham	1964
+2020	Hammersmith and Fulham	1949
+2021	Hammersmith and Fulham	1817
+1995	Haringey	2087
+1996	Haringey	2040
+1997	Haringey	2122
+1998	Haringey	2058
+1999	Haringey	2210
+2000	Haringey	2179
+2001	Haringey	2264
+2002	Haringey	2192
+2003	Haringey	2263
+2004	Haringey	2018
+2005	Haringey	2218
+2006	Haringey	2046
+2007	Haringey	2158
+2008	Haringey	2102
+2009	Haringey	2358
+2010	Haringey	2488
+2011	Haringey	2753
+2012	Haringey	2966
+2013	Haringey	2963
+2014	Haringey	2773
+2015	Haringey	
+2016	Haringey	
+2017	Haringey	
+2018	Haringey	
+2019	Haringey	
+2020	Haringey	
+2021	Haringey	
+1995	Harrow	
+1996	Harrow	
+1997	Harrow	
+1998	Harrow	
+1999	Harrow	
+2000	Harrow	
+2001	Harrow	
+2002	Harrow	
+2003	Harrow	
+2004	Harrow	
+2005	Harrow	
+2006	Harrow	
+2007	Harrow	
+2008	Harrow	
+2009	Harrow	
+2010	Harrow	
+2011	Harrow	
+2012	Harrow	
+2013	Harrow	
+2014	Harrow	
+2015	Harrow	
+2016	Harrow	
+2017	Harrow	
+2018	Harrow	
+2019	Harrow	
+2020	Harrow	
+2021	Harrow	
+1995	Havering	
+1996	Havering	
+1997	Havering	
+1998	Havering	
+1999	Havering	
+2000	Havering	
+2001	Havering	
+2002	Havering	
+2003	Havering	
+2004	Havering	
+2005	Havering	
+2006	Havering	
+2007	Havering	
+2008	Havering	
+2009	Havering	
+2010	Havering	
+2011	Havering	
+2012	Havering	
+2013	Havering	
+2014	Havering	
+2015	Havering	
+2016	Havering	
+2017	Havering	
+2018	Havering	
+2019	Havering	
+2020	Havering	
+2021	Havering	
+1995	Hillingdon	
+1996	Hillingdon	
+1997	Hillingdon	
+1998	Hillingdon	
+1999	Hillingdon	
+2000	Hillingdon	
+2001	Hillingdon	
+2002	Hillingdon	
+2003	Hillingdon	
+2004	Hillingdon	
+2005	Hillingdon	
+2006	Hillingdon	
+2007	Hillingdon	
+2008	Hillingdon	
+2009	Hillingdon	
+2010	Hillingdon	
+2011	Hillingdon	
+2012	Hillingdon	
+2013	Hillingdon	
+2014	Hillingdon	
+2015	Hillingdon	
+2016	Hillingdon	
+2017	Hillingdon	
+2018	Hillingdon	
+2019	Hillingdon	
+2020	Hillingdon	
+2021	Hillingdon	
+1995	Hounslow	
+1996	Hounslow	
+1997	Hounslow	
+1998	Hounslow	
+1999	Hounslow	
+2000	Hounslow	
+2001	Hounslow	
+2002	Hounslow	
+2003	Hounslow	
+2004	Hounslow	
+2005	Hounslow	
+2006	Hounslow	
+2007	Hounslow	
+2008	Hounslow	
+2009	Hounslow	
+2010	Hounslow	
+2011	Hounslow	
+2012	Hounslow	
+2013	Hounslow	
+2014	Hounslow	
+2015	Hounslow	
+2016	Hounslow	
+2017	Hounslow	
+2018	Hounslow	
+2019	Hounslow	
+2020	Hounslow	
+2021	Hounslow	
+1995	Islington	
+1996	Islington	
+1997	Islington	
+1998	Islington	
+1999	Islington	
+2000	Islington	
+2001	Islington	
+2002	Islington	
+2003	Islington	
+2004	Islington	
+2005	Islington	
+2006	Islington	
+2007	Islington	
+2008	Islington	
+2009	Islington	
+2010	Islington	
+2011	Islington	
+2012	Islington	
+2013	Islington	
+2014	Islington	
+2015	Islington	
+2016	Islington	
+2017	Islington	
+2018	Islington	
+2019	Islington	
+2020	Islington	
+2021	Islington	
+1995	Kensington and Chelsea	
+1996	Kensington and Chelsea	
+1997	Kensington and Chelsea	
+1998	Kensington and Chelsea	
+1999	Kensington and Chelsea	
+2000	Kensington and Chelsea	
+2001	Kensington and Chelsea	
+2002	Kensington and Chelsea	
+2003	Kensington and Chelsea	
+2004	Kensington and Chelsea	
+2005	Kensington and Chelsea	
+2006	Kensington and Chelsea	
+2007	Kensington and Chelsea	
+2008	Kensington and Chelsea	
+2009	Kensington and Chelsea	
+2010	Kensington and Chelsea	
+2011	Kensington and Chelsea	
+2012	Kensington and Chelsea	
+2013	Kensington and Chelsea	
+2014	Kensington and Chelsea	
+2015	Kensington and Chelsea	
+2016	Kensington and Chelsea	
+2017	Kensington and Chelsea	
+2018	Kensington and Chelsea	
+2019	Kensington and Chelsea	
+2020	Kensington and Chelsea	
+2021	Kensington and Chelsea	
+1995	Kingston-upon-Thames	
+1996	Kingston-upon-Thames	
+1997	Kingston-upon-Thames	
+1998	Kingston-upon-Thames	
+1999	Kingston-upon-Thames	
+2000	Kingston-upon-Thames	
+2001	Kingston-upon-Thames	
+2002	Kingston-upon-Thames	
+2003	Kingston-upon-Thames	
+2004	Kingston-upon-Thames	
+2005	Kingston-upon-Thames	
+2006	Kingston-upon-Thames	
+2007	Kingston-upon-Thames	
+2008	Kingston-upon-Thames	
+2009	Kingston-upon-Thames	
+2010	Kingston-upon-Thames	
+2011	Kingston-upon-Thames	
+2012	Kingston-upon-Thames	
+2013	Kingston-upon-Thames	
+2014	Kingston-upon-Thames	
+2015	Kingston-upon-Thames	
+2016	Kingston-upon-Thames	
+2017	Kingston-upon-Thames	
+2018	Kingston-upon-Thames	
+2019	Kingston-upon-Thames	
+2020	Kingston-upon-Thames	
+2021	Kingston-upon-Thames	
+1995	Lambeth	
+1996	Lambeth	
+1997	Lambeth	
+1998	Lambeth	
+1999	Lambeth	
+2000	Lambeth	
+2001	Lambeth	
+2002	Lambeth	
+2003	Lambeth	
+2004	Lambeth	
+2005	Lambeth	
+2006	Lambeth	
+2007	Lambeth	
+2008	Lambeth	
+2009	Lambeth	
+2010	Lambeth	
+2011	Lambeth	
+2012	Lambeth	
+2013	Lambeth	
+2014	Lambeth	
+2015	Lambeth	
+2016	Lambeth	
+2017	Lambeth	
+2018	Lambeth	
+2019	Lambeth	
+2020	Lambeth	
+2021	Lambeth	
+1995	Lewisham	
+1996	Lewisham	
+1997	Lewisham	
+1998	Lewisham	
+1999	Lewisham	
+2000	Lewisham	
+2001	Lewisham	
+2002	Lewisham	
+2003	Lewisham	
+2004	Lewisham	
+2005	Lewisham	
+2006	Lewisham	
+2007	Lewisham	
+2008	Lewisham	
+2009	Lewisham	
+2010	Lewisham	
+2011	Lewisham	
+2012	Lewisham	
+2013	Lewisham	
+2014	Lewisham	
+2015	Lewisham	
+2016	Lewisham	
+2017	Lewisham	
+2018	Lewisham	
+2019	Lewisham	
+2020	Lewisham	
+2021	Lewisham	
+1995	Merton	
+1996	Merton	
+1997	Merton	
+1998	Merton	
+1999	Merton	
+2000	Merton	
+2001	Merton	
+2002	Merton	
+2003	Merton	
+2004	Merton	
+2005	Merton	
+2006	Merton	
+2007	Merton	
+2008	Merton	
+2009	Merton	
+2010	Merton	
+2011	Merton	
+2012	Merton	
+2013	Merton	
+2014	Merton	
+2015	Merton	
+2016	Merton	
+2017	Merton	
+2018	Merton	
+2019	Merton	
+2020	Merton	
+2021	Merton	
+1995	Newham	
+1996	Newham	
+1997	Newham	
+1998	Newham	
+1999	Newham	
+2000	Newham	
+2001	Newham	
+2002	Newham	
+2003	Newham	
+2004	Newham	
+2005	Newham	
+2006	Newham	
+2007	Newham	
+2008	Newham	
+2009	Newham	
+2010	Newham	
+2011	Newham	
+2012	Newham	
+2013	Newham	
+2014	Newham	
+2015	Newham	
+2016	Newham	
+2017	Newham	
+2018	Newham	
+2019	Newham	
+2020	Newham	
+2021	Newham	
+1995	Redbridge	
+1996	Redbridge	
+1997	Redbridge	
+1998	Redbridge	
+1999	Redbridge	
+2000	Redbridge	
+2001	Redbridge	
+2002	Redbridge	
+2003	Redbridge	
+2004	Redbridge	
+2005	Redbridge	
+2006	Redbridge	
+2007	Redbridge	
+2008	Redbridge	
+2009	Redbridge	
+2010	Redbridge	
+2011	Redbridge	
+2012	Redbridge	
+2013	Redbridge	
+2014	Redbridge	
+2015	Redbridge	
+2016	Redbridge	
+2017	Redbridge	
+2018	Redbridge	
+2019	Redbridge	
+2020	Redbridge	
+2021	Redbridge	
+1995	Richmond-upon-Thames	
+1996	Richmond-upon-Thames	
+1997	Richmond-upon-Thames	
+1998	Richmond-upon-Thames	
+1999	Richmond-upon-Thames	
+2000	Richmond-upon-Thames	
+2001	Richmond-upon-Thames	
+2002	Richmond-upon-Thames	
+2003	Richmond-upon-Thames	
+2004	Richmond-upon-Thames	
+2005	Richmond-upon-Thames	
+2006	Richmond-upon-Thames	
+2007	Richmond-upon-Thames	
+2008	Richmond-upon-Thames	
+2009	Richmond-upon-Thames	
+2010	Richmond-upon-Thames	
+2011	Richmond-upon-Thames	
+2012	Richmond-upon-Thames	
+2013	Richmond-upon-Thames	
+2014	Richmond-upon-Thames	
+2015	Richmond-upon-Thames	
+2016	Richmond-upon-Thames	
+2017	Richmond-upon-Thames	
+2018	Richmond-upon-Thames	
+2019	Richmond-upon-Thames	
+2020	Richmond-upon-Thames	
+2021	Richmond-upon-Thames	
+1995	Southwark	
+1996	Southwark	
+1997	Southwark	
+1998	Southwark	
+1999	Southwark	
+2000	Southwark	
+2001	Southwark	
+2002	Southwark	
+2003	Southwark	
+2004	Southwark	
+2005	Southwark	
+2006	Southwark	
+2007	Southwark	
+2008	Southwark	
+2009	Southwark	
+2010	Southwark	
+2011	Southwark	
+2012	Southwark	
+2013	Southwark	
+2014	Southwark	
+2015	Southwark	
+2016	Southwark	
+2017	Southwark	
+2018	Southwark	
+2019	Southwark	
+2020	Southwark	
+2021	Southwark	
+1995	Sutton	
+1996	Sutton	
+1997	Sutton	
+1998	Sutton	
+1999	Sutton	
+2000	Sutton	
+2001	Sutton	
+2002	Sutton	
+2003	Sutton	
+2004	Sutton	
+2005	Sutton	
+2006	Sutton	
+2007	Sutton	
+2008	Sutton	
+2009	Sutton	
+2010	Sutton	
+2011	Sutton	
+2012	Sutton	
+2013	Sutton	
+2014	Sutton	
+2015	Sutton	
+2016	Sutton	
+2017	Sutton	
+2018	Sutton	
+2019	Sutton	
+2020	Sutton	
+2021	Sutton	
+1995	Tower Hamlets	
+1996	Tower Hamlets	
+1997	Tower Hamlets	
+1998	Tower Hamlets	
+1999	Tower Hamlets	
+2000	Tower Hamlets	
+2001	Tower Hamlets	
+2002	Tower Hamlets	
+2003	Tower Hamlets	
+2004	Tower Hamlets	
+2005	Tower Hamlets	
+2006	Tower Hamlets	
+2007	Tower Hamlets	
+2008	Tower Hamlets	
+2009	Tower Hamlets	
+2010	Tower Hamlets	
+2011	Tower Hamlets	
+2012	Tower Hamlets	
+2013	Tower Hamlets	
+2014	Tower Hamlets	
+2015	Tower Hamlets	
+2016	Tower Hamlets	
+2017	Tower Hamlets	
+2018	Tower Hamlets	
+2019	Tower Hamlets	
+2020	Tower Hamlets	
+2021	Tower Hamlets	
+1995	Waltham Forest	
+1996	Waltham Forest	
+1997	Waltham Forest	
+1998	Waltham Forest	
+1999	Waltham Forest	
+2000	Waltham Forest	
+2001	Waltham Forest	
+2002	Waltham Forest	
+2003	Waltham Forest	
+2004	Waltham Forest	
+2005	Waltham Forest	
+2006	Waltham Forest	
+2007	Waltham Forest	
+2008	Waltham Forest	
+2009	Waltham Forest	
+2010	Waltham Forest	
+2011	Waltham Forest	
+2012	Waltham Forest	
+2013	Waltham Forest	
+2014	Waltham Forest	
+2015	Waltham Forest	
+2016	Waltham Forest	
+2017	Waltham Forest	
+2018	Waltham Forest	
+2019	Waltham Forest	
+2020	Waltham Forest	
+2021	Waltham Forest	
+1995	Wandsworth	
+1996	Wandsworth	
+1997	Wandsworth	
+1998	Wandsworth	
+1999	Wandsworth	
+2000	Wandsworth	
+2001	Wandsworth	
+2002	Wandsworth	
+2003	Wandsworth	
+2004	Wandsworth	
+2005	Wandsworth	
+2006	Wandsworth	
+2007	Wandsworth	
+2008	Wandsworth	
+2009	Wandsworth	
+2010	Wandsworth	
+2011	Wandsworth	
+2012	Wandsworth	
+2013	Wandsworth	
+2014	Wandsworth	
+2015	Wandsworth	
+2016	Wandsworth	
+2017	Wandsworth	
+2018	Wandsworth	
+2019	Wandsworth	
+2020	Wandsworth	
+2021	Wandsworth	
+1995	Westminster	
+1996	Westminster	
+1997	Westminster	
+1998	Westminster	
+1999	Westminster	
+2000	Westminster	
+2001	Westminster	
+2002	Westminster	
+2003	Westminster	
+2004	Westminster	
+2005	Westminster	
+2006	Westminster	
+2007	Westminster	
+2008	Westminster	
+2009	Westminster	
+2010	Westminster	
+2011	Westminster	
+2012	Westminster	
+2013	Westminster	
+2014	Westminster	
+2015	Westminster	
+2016	Westminster	
+2017	Westminster	
+2018	Westminster	
+2019	Westminster	
+2020	Westminster	
+2021	Westminster	
+1995	North East	
+1996	North East	
+1997	North East	
+1998	North East	
+1999	North East	
+2000	North East	
+2001	North East	
+2002	North East	
+2003	North East	
+2004	North East	
+2005	North East	
+2006	North East	
+2007	North East	
+2008	North East	
+2009	North East	
+2010	North East	
+2011	North East	
+2012	North East	
+2013	North East	
+2014	North East	
+2015	North East	
+2016	North East	
+2017	North East	
+2018	North East	
+2019	North East	
+2020	North East	
+2021	North East	
+1995	North West	
+1996	North West	
+1997	North West	
+1998	North West	
+1999	North West	
+2000	North West	
+2001	North West	
+2002	North West	
+2003	North West	
+2004	North West	
+2005	North West	
+2006	North West	
+2007	North West	
+2008	North West	
+2009	North West	
+2010	North West	
+2011	North West	
+2012	North West	
+2013	North West	
+2014	North West	
+2015	North West	
+2016	North West	
+2017	North West	
+2018	North West	
+2019	North West	
+2020	North West	
+2021	North West	
+1995	London	
+1996	London	
+1997	London	
+1998	London	
+1999	London	
+2000	London	
+2001	London	
+2002	London	
+2003	London	
+2004	London	
+2005	London	
+2006	London	
+2007	London	
+2008	London	
+2009	London	
+2010	London	
+2011	London	
+2012	London	
+2013	London	
+2014	London	
+2015	London	
+2016	London	
+2017	London	
+2018	London	
+2019	London	
+2020	London	
+2021	London	
+1995	South East	
+1996	South East	
+1997	South East	
+1998	South East	
+1999	South East	
+2000	South East	
+2001	South East	
+2002	South East	
+2003	South East	
+2004	South East	
+2005	South East	
+2006	South East	
+2007	South East	
+2008	South East	
+2009	South East	
+2010	South East	
+2011	South East	
+2012	South East	
+2013	South East	
+2014	South East	
+2015	South East	
+2016	South East	
+2017	South East	
+2018	South East	
+2019	South East	
+2020	South East	
+2021	South East	
+1995	South West	
+1996	South West	
+1997	South West	
+1998	South West	
+1999	South West	
+2000	South West	
+2001	South West	
+2002	South West	
+2003	South West	
+2004	South West	
+2005	South West	
+2006	South West	
+2007	South West	
+2008	South West	
+2009	South West	
+2010	South West	
+2011	South West	
+2012	South West	
+2013	South West	
+2014	South West	
+2015	South West	
+2016	South West	
+2017	South West	
+2018	South West	
+2019	South West	
+2020	South West	
+2021	South West	
+1995	England	
+1996	England	
+1997	England	
+1998	England	
+1999	England	
+2000	England	
+2001	England	
+2002	England	
+2003	England	
+2004	England	
+2005	England	
+2006	England	
+2007	England	
+2008	England	
+2009	England	
+2010	England	
+2011	England	
+2012	England	
+2013	England	
+2014	England	
+2015	England	
+2016	England	
+2017	England	
+2018	England	
+2019	England	
+2020	England	
+2021	England	
+1995	Wales	
+1996	Wales	
+1997	Wales	
+1998	Wales	
+1999	Wales	
+2000	Wales	
+2001	Wales	
+2002	Wales	
+2003	Wales	
+2004	Wales	
+2005	Wales	
+2006	Wales	
+2007	Wales	
+2008	Wales	
+2009	Wales	
+2010	Wales	
+2011	Wales	
+2012	Wales	
+2013	Wales	
+2014	Wales	
+2015	Wales	
+2016	Wales	
+2017	Wales	
+2018	Wales	
+2019	Wales	
+2020	Wales	
+1995	Scotland	
+1996	Scotland	
+1997	Scotland	
+1998	Scotland	
+1999	Scotland	
+2000	Scotland	
+2001	Scotland	
+2002	Scotland	
+2003	Scotland	
+2004	Scotland	
+2005	Scotland	
+2006	Scotland	
+2007	Scotland	
+2008	Scotland	
+2009	Scotland	
+2010	Scotland	
+2011	Scotland	
+2012	Scotland	
+2013	Scotland	
+2014	Scotland	
+2015	Scotland	
+2016	Scotland	
+2017	Scotland	
+2018	Scotland	
+2019	Scotland	
+2020	Scotland	
+2021	Scotland	
+1995	Northern Ireland	
+1996	Northern Ireland	
+1997	Northern Ireland	
+1998	Northern Ireland	
+1999	Northern Ireland	
+2000	Northern Ireland	
+2001	Northern Ireland	
+2002	Northern Ireland	
+2003	Northern Ireland	
+2004	Northern Ireland	
+2005	Northern Ireland	
+2006	Northern Ireland	
+2007	Northern Ireland	
+2008	Northern Ireland	
+2009	Northern Ireland	
+2010	Northern Ireland	
+2011	Northern Ireland	
+2012	Northern Ireland	
+2013	Northern Ireland	
+2014	Northern Ireland	
+2015	Northern Ireland	
+2016	Northern Ireland	
+2017	Northern Ireland	
+2018	Northern Ireland	
+2019	Northern Ireland	
+2020	Northern Ireland	
+2021	Northern Ireland	
+1975	United Kingdom	
+1976	United Kingdom	
+1977	United Kingdom	
+1978	United Kingdom	
+1979	United Kingdom	
+1980	United Kingdom	
+1981	United Kingdom	
+1982	United Kingdom	
+1983	United Kingdom	
+1984	United Kingdom	
+1985	United Kingdom	
+1986	United Kingdom	
+1987	United Kingdom	
+1988	United Kingdom	
+1989	United Kingdom	
+1990	United Kingdom	
+1991	United Kingdom	
+1992	United Kingdom	
+1993	United Kingdom	
+1994	United Kingdom	
+1995	United Kingdom	
+1996	United Kingdom	
+1997	United Kingdom	
+1998	United Kingdom	
+1999	United Kingdom	
+2000	United Kingdom	
+2001	United Kingdom	
+2002	United Kingdom	
+2003	United Kingdom	
+2004	United Kingdom	
+2005	United Kingdom	
+2006	United Kingdom	
+2007	United Kingdom	
+2008	United Kingdom	
+2009	United Kingdom	
+2010	United Kingdom	
+2011	United Kingdom	
+2012	United Kingdom	
+2013	United Kingdom	
+2014	United Kingdom	
+2015	United Kingdom	
+2016	United Kingdom	
+2017	United Kingdom	
+2018	United Kingdom	
+2019	United Kingdom	
+2020	United Kingdom	
+2021	United Kingdom	
