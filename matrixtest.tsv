@@ -1,58 +1,4 @@
 year	borough	data	GBP
-1995	City of London	averageHousePrice	146043
-1995	City of London	averageSalary	98400
-1996	City of London	averageHousePrice	136344
-1996	City of London	averageSalary	100000
-1997	City of London	averageHousePrice	156418
-1997	City of London	averageSalary	104000
-1998	City of London	averageHousePrice	227377
-1998	City of London	averageSalary	105000
-1999	City of London	averageHousePrice	232854
-1999	City of London	averageSalary	109800
-2000	City of London	averageHousePrice	255964
-2000	City of London	averageSalary	137000
-2001	City of London	averageHousePrice	266277
-2001	City of London	averageSalary	92900
-2002	City of London	averageHousePrice	270879
-2002	City of London	averageSalary	78700
-2003	City of London	averageHousePrice	322733
-2003	City of London	averageSalary	85800
-2004	City of London	averageHousePrice	292696
-2004	City of London	averageSalary	95600
-2005	City of London	averageHousePrice	329697
-2005	City of London	averageSalary	90600
-2006	City of London	averageHousePrice	374654
-2006	City of London	averageSalary	99200
-2007	City of London	averageHousePrice	490706
-2007	City of London	averageSalary	102000
-2008	City of London	averageHousePrice	412940
-2008	City of London	averageSalary	120522
-2009	City of London	averageHousePrice	449611
-2009	City of London	averageSalary	137000
-2010	City of London	averageHousePrice	524581
-2010	City of London	averageSalary	127000
-2011	City of London	averageHousePrice	541192
-2011	City of London	averageSalary	117000
-2012	City of London	averageHousePrice	537160
-2012	City of London	averageSalary	131000
-2013	City of London	averageHousePrice	775504
-2013	City of London	averageSalary	151000
-2014	City of London	averageHousePrice	894046
-2014	City of London	averageSalary	144000
-2015	City of London	averageHousePrice	926292
-2015	City of London	averageSalary	142000
-2016	City of London	averageHousePrice	928037
-2016	City of London	averageSalary	157000
-2017	City of London	averageHousePrice	950760
-2017	City of London	averageSalary	148000
-2018	City of London	averageHousePrice	965842
-2018	City of London	averageSalary	142000
-2019	City of London	averageHousePrice	981354
-2019	City of London	averageSalary	128000
-2020	City of London	averageHousePrice	1254654
-2020	City of London	averageSalary	142000
-2021	City of London	averageHousePrice	1345060
-2021	City of London	averageSalary	167000
 1995	Barking and Dagenham	averageHousePrice	50165
 1995	Barking and Dagenham	averageSalary	15000
 1996	Barking and Dagenham	averageHousePrice	51680
@@ -107,3 +53,165 @@ year	borough	data	GBP
 2020	Barking and Dagenham	averageSalary	30800
 2021	Barking and Dagenham	averageHousePrice	105000
 2021	Barking and Dagenham	averageSalary	31800
+1995	Barnet	averageHousePrice	111019
+1995	Barnet	averageSalary	22000
+1996	Barnet	averageHousePrice	111203
+1996	Barnet	averageSalary	23510
+1997	Barnet	averageHousePrice	135580
+1997	Barnet	averageSalary	24650
+1998	Barnet	averageHousePrice	147673
+1998	Barnet	averageSalary	25000
+1999	Barnet	averageHousePrice	173356
+1999	Barnet	averageSalary	26800
+2000	Barnet	averageHousePrice	199147
+2000	Barnet	averageSalary	30800
+2001	Barnet	averageHousePrice	220955
+2001	Barnet	averageSalary	30400
+2002	Barnet	averageHousePrice	257942
+2002	Barnet	averageSalary	32300
+2003	Barnet	averageHousePrice	284178
+2003	Barnet	averageSalary	33900
+2004	Barnet	averageHousePrice	306902
+2004	Barnet	averageSalary	32800
+2005	Barnet	averageHousePrice	318450
+2005	Barnet	averageSalary	35600
+2006	Barnet	averageHousePrice	341937
+2006	Barnet	averageSalary	36700
+2007	Barnet	averageHousePrice	380566
+2007	Barnet	averageSalary	38700
+2008	Barnet	averageHousePrice	387784
+2008	Barnet	averageSalary	40000
+2009	Barnet	averageHousePrice	382142
+2009	Barnet	averageSalary	41600
+2010	Barnet	averageHousePrice	444386
+2010	Barnet	averageSalary	38800
+2011	Barnet	averageHousePrice	440755
+2011	Barnet	averageSalary	39200
+2012	Barnet	averageHousePrice	450269
+2012	Barnet	averageSalary	41000
+2013	Barnet	averageHousePrice	479968
+2013	Barnet	averageSalary	45500
+2014	Barnet	averageHousePrice	534786
+2014	Barnet	averageSalary	45000
+2015	Barnet	averageHousePrice	566874
+2015	Barnet	averageSalary	49000
+2016	Barnet	averageHousePrice	584202
+2016	Barnet	averageSalary	48600
+2017	Barnet	averageHousePrice	667593
+2017	Barnet	averageSalary	49500
+2018	Barnet	averageHousePrice	645512
+2018	Barnet	averageSalary	51600
+2019	Barnet	averageHousePrice	785132
+2019	Barnet	averageSalary	51600
+2020	Barnet	averageHousePrice	824658
+2020	Barnet	averageSalary	54400
+2021	Barnet	averageHousePrice	864230
+2021	Barnet	averageSalary	59100
+1995	Bexley	averageHousePrice	66294
+1995	Bexley	averageSalary	61000
+1996	Bexley	averageHousePrice	69941
+1996	Bexley	averageSalary	63000
+1997	Bexley	averageHousePrice	75484
+1997	Bexley	averageSalary	62000
+1998	Bexley	averageHousePrice	85497
+1998	Bexley	averageSalary	63100
+1999	Bexley	averageHousePrice	94395
+1999	Bexley	averageSalary	20500
+2000	Bexley	averageHousePrice	109347
+2000	Bexley	averageSalary	19800
+2001	Bexley	averageHousePrice	126216
+2001	Bexley	averageSalary	22000
+2002	Bexley	averageHousePrice	151225
+2002	Bexley	averageSalary	21500
+2003	Bexley	averageHousePrice	174984
+2003	Bexley	averageSalary	21900
+2004	Bexley	averageHousePrice	188354
+2004	Bexley	averageSalary	22300
+2005	Bexley	averageHousePrice	194798
+2005	Bexley	averageSalary	24000
+2006	Bexley	averageHousePrice	209006
+2006	Bexley	averageSalary	24600
+2007	Bexley	averageHousePrice	223771
+2007	Bexley	averageSalary	26700
+2008	Bexley	averageHousePrice	219495
+2008	Bexley	averageSalary	27000
+2009	Bexley	averageHousePrice	209521
+2009	Bexley	averageSalary	27600
+2010	Bexley	averageHousePrice	226616
+2010	Bexley	averageSalary	27400
+2011	Bexley	averageHousePrice	226283
+2011	Bexley	averageSalary	28300
+2012	Bexley	averageHousePrice	225465
+2012	Bexley	averageSalary	28600
+2013	Bexley	averageHousePrice	236952
+2013	Bexley	averageSalary	29600
+2014	Bexley	averageHousePrice	267268
+2014	Bexley	averageSalary	30200
+2015	Bexley	averageHousePrice	295262
+2015	Bexley	averageSalary	30900
+2016	Bexley	averageHousePrice	340626
+2016	Bexley	averageSalary	32300
+2017	Bexley	averageHousePrice	357779
+2017	Bexley	averageSalary	33500
+2018	Bexley	averageHousePrice	361250
+2018	Bexley	averageSalary	34600
+2019	Bexley	averageHousePrice	374850
+2019	Bexley	averageSalary	36000
+2020	Bexley	averageHousePrice	395410
+2020	Bexley	averageSalary	36400
+2021	Bexley	averageHousePrice	400000
+2021	Bexley	averageSalary	38000
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
