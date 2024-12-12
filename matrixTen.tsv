@@ -1,0 +1,163 @@
+year	borough	data	GBP
+1995	Southwark	averageHousePrice	84677
+1995	Southwark	averageSalary	19000
+1996	Southwark	averageHousePrice	87617
+1996	Southwark	averageSalary	19500
+1997	Southwark	averageHousePrice	103515
+1997	Southwark	averageSalary	20000
+1998	Southwark	averageHousePrice	121755
+1998	Southwark	averageSalary	20000
+1999	Southwark	averageHousePrice	142789
+1999	Southwark	averageSalary	20000
+2000	Southwark	averageHousePrice	184697
+2000	Southwark	averageSalary	20400
+2001	Southwark	averageHousePrice	221727
+2001	Southwark	averageSalary	22500
+2002	Southwark	averageHousePrice	240345
+2002	Southwark	averageSalary	25900
+2003	Southwark	averageHousePrice	252682
+2003	Southwark	averageSalary	24600
+2004	Southwark	averageHousePrice	273515
+2004	Southwark	averageSalary	25400
+2005	Southwark	averageHousePrice	289173
+2005	Southwark	averageSalary	26300
+2006	Southwark	averageHousePrice	332738
+2006	Southwark	averageSalary	29500
+2007	Southwark	averageHousePrice	328055
+2007	Southwark	averageSalary	31800
+2008	Southwark	averageHousePrice	338570
+2008	Southwark	averageSalary	36000
+2009	Southwark	averageHousePrice	376688
+2009	Southwark	averageSalary	36800
+2010	Southwark	averageHousePrice	400980
+2010	Southwark	averageSalary	35400
+2011	Southwark	averageHousePrice	415796
+2011	Southwark	averageSalary	36500
+2012	Southwark	averageHousePrice	441747
+2012	Southwark	averageSalary	37500
+2013	Southwark	averageHousePrice	518144
+2013	Southwark	averageSalary	40500
+2014	Southwark	averageHousePrice	583065
+2014	Southwark	averageSalary	41600
+2015	Southwark	averageHousePrice	643858
+2015	Southwark	averageSalary	44200
+2016	Southwark	averageHousePrice	641210
+2016	Southwark	averageSalary	45400
+2017	Southwark	averageHousePrice	660000
+2017	Southwark	averageSalary	48600
+2018	Southwark	averageHousePrice	660000
+2018	Southwark	averageSalary	49400
+2019	Southwark	averageHousePrice	690000
+2019	Southwark	averageSalary	53400
+2020	Southwark	averageHousePrice	720000
+2020	Southwark	averageSalary	55300
+2021	Southwark	averageHousePrice	760000
+2021	Southwark	averageSalary	57800
+1995	Sutton	averageHousePrice	76952
+1995	Sutton	averageSalary	19000
+1996	Sutton	averageHousePrice	79561
+1996	Sutton	averageSalary	19200
+1997	Sutton	averageHousePrice	88169
+1997	Sutton	averageSalary	19500
+1998	Sutton	averageHousePrice	100413
+1998	Sutton	averageSalary	20000
+1999	Sutton	averageHousePrice	113447
+1999	Sutton	averageSalary	21000
+2000	Sutton	averageHousePrice	138136
+2000	Sutton	averageSalary	21900
+2001	Sutton	averageHousePrice	153408
+2001	Sutton	averageSalary	23100
+2002	Sutton	averageHousePrice	177432
+2002	Sutton	averageSalary	23700
+2003	Sutton	averageHousePrice	197763
+2003	Sutton	averageSalary	24600
+2004	Sutton	averageHousePrice	212522
+2004	Sutton	averageSalary	25600
+2005	Sutton	averageHousePrice	225682
+2005	Sutton	averageSalary	26300
+2006	Sutton	averageHousePrice	239235
+2006	Sutton	averageSalary	28400
+2007	Sutton	averageHousePrice	261248
+2007	Sutton	averageSalary	30000
+2008	Sutton	averageHousePrice	259375
+2008	Sutton	averageSalary	30000
+2009	Sutton	averageHousePrice	239794
+2009	Sutton	averageSalary	30000
+2010	Sutton	averageHousePrice	264951
+2010	Sutton	averageSalary	29100
+2011	Sutton	averageHousePrice	267042
+2011	Sutton	averageSalary	31400
+2012	Sutton	averageHousePrice	272250
+2012	Sutton	averageSalary	32400
+2013	Sutton	averageHousePrice	286681
+2013	Sutton	averageSalary	32800
+2014	Sutton	averageHousePrice	322434
+2014	Sutton	averageSalary	33600
+2015	Sutton	averageHousePrice	358826
+2015	Sutton	averageSalary	35400
+2016	Sutton	averageHousePrice	387585
+2016	Sutton	averageSalary	35500
+2017	Sutton	averageHousePrice	402121
+2017	Sutton	averageSalary	36900
+2018	Sutton	averageHousePrice	440000
+2018	Sutton	averageSalary	38500
+2019	Sutton	averageHousePrice	450000
+2019	Sutton	averageSalary	40200
+2020	Sutton	averageHousePrice	490000
+2020	Sutton	averageSalary	41400
+2021	Sutton	averageHousePrice	510000
+2021	Sutton	averageSalary	45200
+1995	Tower Hamlets	averageHousePrice	76933
+1995	Tower Hamlets	averageSalary	20100
+1996	Tower Hamlets	averageHousePrice	88715
+1996	Tower Hamlets	averageSalary	20600
+1997	Tower Hamlets	averageHousePrice	110807
+1997	Tower Hamlets	averageSalary	21500
+1998	Tower Hamlets	averageHousePrice	129367
+1998	Tower Hamlets	averageSalary	22500
+1999	Tower Hamlets	averageHousePrice	159999
+1999	Tower Hamlets	averageSalary	22900
+2000	Tower Hamlets	averageHousePrice	190411
+2000	Tower Hamlets	averageSalary	25000
+2001	Tower Hamlets	averageHousePrice	208596
+2001	Tower Hamlets	averageSalary	29900
+2002	Tower Hamlets	averageHousePrice	222708
+2002	Tower Hamlets	averageSalary	28500
+2003	Tower Hamlets	averageHousePrice	237860
+2003	Tower Hamlets	averageSalary	28300
+2004	Tower Hamlets	averageHousePrice	260847
+2004	Tower Hamlets	averageSalary	29600
+2005	Tower Hamlets	averageHousePrice	265639
+2005	Tower Hamlets	averageSalary	31500
+2006	Tower Hamlets	averageHousePrice	281493
+2006	Tower Hamlets	averageSalary	33500
+2007	Tower Hamlets	averageHousePrice	333393
+2007	Tower Hamlets	averageSalary	37400
+2008	Tower Hamlets	averageHousePrice	328379
+2008	Tower Hamlets	averageSalary	38000
+2009	Tower Hamlets	averageHousePrice	333797
+2009	Tower Hamlets	averageSalary	38300
+2010	Tower Hamlets	averageHousePrice	345385
+2010	Tower Hamlets	averageSalary	37400
+2011	Tower Hamlets	averageHousePrice	345026
+2011	Tower Hamlets	averageSalary	38200
+2012	Tower Hamlets	averageHousePrice	355588
+2012	Tower Hamlets	averageSalary	39000
+2013	Tower Hamlets	averageHousePrice	383842
+2013	Tower Hamlets	averageSalary	40800
+2014	Tower Hamlets	averageHousePrice	445319
+2014	Tower Hamlets	averageSalary	41800
+2015	Tower Hamlets	averageHousePrice	483423
+2015	Tower Hamlets	averageSalary	45000
+2016	Tower Hamlets	averageHousePrice	524508
+2016	Tower Hamlets	averageSalary	46600
+2017	Tower Hamlets	averageHousePrice	554009
+2017	Tower Hamlets	averageSalary	46600
+2018	Tower Hamlets	averageHousePrice	559000
+2018	Tower Hamlets	averageSalary	49300
+2019	Tower Hamlets	averageHousePrice	590000
+2019	Tower Hamlets	averageSalary	50100
+2020	Tower Hamlets	averageHousePrice	610000
+2020	Tower Hamlets	averageSalary	52700
+2021	Tower Hamlets	averageHousePrice	620000
+2021	Tower Hamlets	averageSalary	55500
