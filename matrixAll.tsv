@@ -1,0 +1,433 @@
+year	borough	data	GBP
+1995	Barking and Dagenham	averageHousePrice	50165
+1995	Barking and Dagenham	averageSalary	15000
+1996	Barking and Dagenham	averageHousePrice	51680
+1996	Barking and Dagenham	averageSalary	15300
+1997	Barking and Dagenham	averageHousePrice	56222
+1997	Barking and Dagenham	averageSalary	15830
+1998	Barking and Dagenham	averageHousePrice	63874
+1998	Barking and Dagenham	averageSalary	16000
+1999	Barking and Dagenham	averageHousePrice	69544
+1999	Barking and Dagenham	averageSalary	16200
+2000	Barking and Dagenham	averageHousePrice	84111
+2000	Barking and Dagenham	averageSalary	18100
+2001	Barking and Dagenham	averageHousePrice	94451
+2001	Barking and Dagenham	averageSalary	18600
+2002	Barking and Dagenham	averageHousePrice	118795
+2002	Barking and Dagenham	averageSalary	19100
+2003	Barking and Dagenham	averageHousePrice	145661
+2003	Barking and Dagenham	averageSalary	18000
+2004	Barking and Dagenham	averageHousePrice	163828
+2004	Barking and Dagenham	averageSalary	19400
+2005	Barking and Dagenham	averageHousePrice	169663
+2005	Barking and Dagenham	averageSalary	20600
+2006	Barking and Dagenham	averageHousePrice	175139
+2006	Barking and Dagenham	averageSalary	20600
+2007	Barking and Dagenham	averageHousePrice	192859
+2007	Barking and Dagenham	averageSalary	21300
+2008	Barking and Dagenham	averageHousePrice	196942
+2008	Barking and Dagenham	averageSalary	22000
+2009	Barking and Dagenham	averageHousePrice	166483
+2009	Barking and Dagenham	averageSalary	23100
+2010	Barking and Dagenham	averageHousePrice	179018
+2010	Barking and Dagenham	averageSalary	22500
+2011	Barking and Dagenham	averageHousePrice	180165
+2011	Barking and Dagenham	averageSalary	22800
+2012	Barking and Dagenham	averageHousePrice	181471
+2012	Barking and Dagenham	averageSalary	23700
+2013	Barking and Dagenham	averageHousePrice	187943
+2013	Barking and Dagenham	averageSalary	24600
+2014	Barking and Dagenham	averageHousePrice	215810
+2014	Barking and Dagenham	averageSalary	25500
+2015	Barking and Dagenham	averageHousePrice	244126
+2015	Barking and Dagenham	averageSalary	25900
+2016	Barking and Dagenham	averageHousePrice	289176
+2016	Barking and Dagenham	averageSalary	26700
+2017	Barking and Dagenham	averageHousePrice	301518
+2017	Barking and Dagenham	averageSalary	27400
+2018	Barking and Dagenham	averageHousePrice	310000
+2018	Barking and Dagenham	averageSalary	28800
+2019	Barking and Dagenham	averageHousePrice	321111
+2019	Barking and Dagenham	averageSalary	29400
+2020	Barking and Dagenham	averageHousePrice	333000
+2020	Barking and Dagenham	averageSalary	30800
+2021	Barking and Dagenham	averageHousePrice	345000
+2021	Barking and Dagenham	averageSalary	31800
+1995	Barnet	averageHousePrice	111019
+1995	Barnet	averageSalary	22000
+1996	Barnet	averageHousePrice	111203
+1996	Barnet	averageSalary	23510
+1997	Barnet	averageHousePrice	135580
+1997	Barnet	averageSalary	24650
+1998	Barnet	averageHousePrice	147673
+1998	Barnet	averageSalary	25000
+1999	Barnet	averageHousePrice	173356
+1999	Barnet	averageSalary	26800
+2000	Barnet	averageHousePrice	199147
+2000	Barnet	averageSalary	30800
+2001	Barnet	averageHousePrice	220955
+2001	Barnet	averageSalary	30400
+2002	Barnet	averageHousePrice	257942
+2002	Barnet	averageSalary	32300
+2003	Barnet	averageHousePrice	284178
+2003	Barnet	averageSalary	33900
+2004	Barnet	averageHousePrice	306902
+2004	Barnet	averageSalary	32800
+2005	Barnet	averageHousePrice	318450
+2005	Barnet	averageSalary	35600
+2006	Barnet	averageHousePrice	341937
+2006	Barnet	averageSalary	36700
+2007	Barnet	averageHousePrice	380566
+2007	Barnet	averageSalary	38700
+2008	Barnet	averageHousePrice	387784
+2008	Barnet	averageSalary	40000
+2009	Barnet	averageHousePrice	382142
+2009	Barnet	averageSalary	41600
+2010	Barnet	averageHousePrice	444386
+2010	Barnet	averageSalary	38800
+2011	Barnet	averageHousePrice	440755
+2011	Barnet	averageSalary	39200
+2012	Barnet	averageHousePrice	450269
+2012	Barnet	averageSalary	41000
+2013	Barnet	averageHousePrice	479968
+2013	Barnet	averageSalary	45500
+2014	Barnet	averageHousePrice	534786
+2014	Barnet	averageSalary	45000
+2015	Barnet	averageHousePrice	566874
+2015	Barnet	averageSalary	49000
+2016	Barnet	averageHousePrice	584202
+2016	Barnet	averageSalary	48600
+2017	Barnet	averageHousePrice	667593
+2017	Barnet	averageSalary	49500
+2018	Barnet	averageHousePrice	645512
+2018	Barnet	averageSalary	51600
+2019	Barnet	averageHousePrice	785132
+2019	Barnet	averageSalary	51600
+2020	Barnet	averageHousePrice	824658
+2020	Barnet	averageSalary	54400
+2021	Barnet	averageHousePrice	864230
+2021	Barnet	averageSalary	59100
+1995	Bexley	averageHousePrice	66294
+1995	Bexley	averageSalary	18000
+1996	Bexley	averageHousePrice	69941
+1996	Bexley	averageSalary	18000
+1997	Bexley	averageHousePrice	75484
+1997	Bexley	averageSalary	19000
+1998	Bexley	averageHousePrice	85497
+1998	Bexley	averageSalary	20100
+1999	Bexley	averageHousePrice	94395
+1999	Bexley	averageSalary	20500
+2000	Bexley	averageHousePrice	109347
+2000	Bexley	averageSalary	19800
+2001	Bexley	averageHousePrice	126216
+2001	Bexley	averageSalary	22000
+2002	Bexley	averageHousePrice	151225
+2002	Bexley	averageSalary	21500
+2003	Bexley	averageHousePrice	174984
+2003	Bexley	averageSalary	21900
+2004	Bexley	averageHousePrice	188354
+2004	Bexley	averageSalary	22300
+2005	Bexley	averageHousePrice	194798
+2005	Bexley	averageSalary	24000
+2006	Bexley	averageHousePrice	209006
+2006	Bexley	averageSalary	24600
+2007	Bexley	averageHousePrice	223771
+2007	Bexley	averageSalary	26700
+2008	Bexley	averageHousePrice	219495
+2008	Bexley	averageSalary	27000
+2009	Bexley	averageHousePrice	209521
+2009	Bexley	averageSalary	27600
+2010	Bexley	averageHousePrice	226616
+2010	Bexley	averageSalary	27400
+2011	Bexley	averageHousePrice	226283
+2011	Bexley	averageSalary	28300
+2012	Bexley	averageHousePrice	225465
+2012	Bexley	averageSalary	28600
+2013	Bexley	averageHousePrice	236952
+2013	Bexley	averageSalary	29600
+2014	Bexley	averageHousePrice	267268
+2014	Bexley	averageSalary	30200
+2015	Bexley	averageHousePrice	295262
+2015	Bexley	averageSalary	30900
+2016	Bexley	averageHousePrice	340626
+2016	Bexley	averageSalary	32300
+2017	Bexley	averageHousePrice	357779
+2017	Bexley	averageSalary	33500
+2018	Bexley	averageHousePrice	361250
+2018	Bexley	averageSalary	34600
+2019	Bexley	averageHousePrice	374850
+2019	Bexley	averageSalary	36000
+2020	Bexley	averageHousePrice	395410
+2020	Bexley	averageSalary	36400
+2021	Bexley	averageHousePrice	400000
+2021	Bexley	averageSalary	38000
+1995	Brent	averageHousePrice	77258
+1995	Brent	averageSalary	39000
+1996	Brent	averageHousePrice	82824
+1996	Brent	averageSalary	41000
+1997	Brent	averageHousePrice	96499
+1997	Brent	averageSalary	42000
+1998	Brent	averageHousePrice	111868
+1998	Brent	averageSalary	42000
+1999	Brent	averageHousePrice	125958
+1999	Brent	averageSalary	20000
+2000	Brent	averageHousePrice	154194
+2000	Brent	averageSalary	22200
+2001	Brent	averageHousePrice	175865
+2001	Brent	averageSalary	21100
+2002	Brent	averageHousePrice	210014
+2002	Brent	averageSalary	21700
+2003	Brent	averageHousePrice	230062
+2003	Brent	averageSalary	22500
+2004	Brent	averageHousePrice	249534
+2004	Brent	averageSalary	21800
+2005	Brent	averageHousePrice	266301
+2005	Brent	averageSalary	23200
+2006	Brent	averageHousePrice	284109
+2006	Brent	averageSalary	24600
+2007	Brent	averageHousePrice	321197
+2007	Brent	averageSalary	24700
+2008	Brent	averageHousePrice	328763
+2008	Brent	averageSalary	25000
+2009	Brent	averageHousePrice	322691
+2009	Brent	averageSalary	26100
+2010	Brent	averageHousePrice	345055
+2010	Brent	averageSalary	26700
+2011	Brent	averageHousePrice	360423
+2011	Brent	averageSalary	27400
+2012	Brent	averageHousePrice	395126
+2012	Brent	averageSalary	28300
+2013	Brent	averageHousePrice	429877
+2013	Brent	averageSalary	29700
+2014	Brent	averageHousePrice	468859
+2014	Brent	averageSalary	31200
+2015	Brent	averageHousePrice	506322
+2015	Brent	averageSalary	32600
+2016	Brent	averageHousePrice	517497
+2016	Brent	averageSalary	34100
+2017	Brent	averageHousePrice	578705
+2017	Brent	averageSalary	35400
+2018	Brent	averageHousePrice	600000
+2018	Brent	averageSalary	36300
+2019	Brent	averageHousePrice	620000
+2019	Brent	averageSalary	37800
+2020	Brent	averageHousePrice	630000
+2020	Brent	averageSalary	40400
+2021	Brent	averageHousePrice	700000
+2021	Brent	averageSalary	44100
+1995	Bromley	averageHousePrice	93441
+1995	Bromley	averageSalary	46000
+1996	Bromley	averageHousePrice	97597
+1996	Bromley	averageSalary	47000
+1997	Bromley	averageHousePrice	105027
+1997	Bromley	averageSalary	48000
+1998	Bromley	averageHousePrice	118048
+1998	Bromley	averageSalary	49000
+1999	Bromley	averageHousePrice	138486
+1999	Bromley	averageSalary	25100
+2000	Bromley	averageHousePrice	164025
+2000	Bromley	averageSalary	26400
+2001	Bromley	averageHousePrice	182176
+2001	Bromley	averageSalary	27400
+2002	Bromley	averageHousePrice	209252
+2002	Bromley	averageSalary	27700
+2003	Bromley	averageHousePrice	238066
+2003	Bromley	averageSalary	29200
+2004	Bromley	averageHousePrice	259452
+2004	Bromley	averageSalary	29200
+2005	Bromley	averageHousePrice	267788
+2005	Bromley	averageSalary	31400
+2006	Bromley	averageHousePrice	282058
+2006	Bromley	averageSalary	32800
+2007	Bromley	averageHousePrice	316391
+2007	Bromley	averageSalary	34400
+2008	Bromley	averageHousePrice	304375
+2008	Bromley	averageSalary	35000
+2009	Bromley	averageHousePrice	301946
+2009	Bromley	averageSalary	36500
+2010	Bromley	averageHousePrice	327306
+2010	Bromley	averageSalary	35900
+2011	Bromley	averageHousePrice	336236
+2011	Bromley	averageSalary	36400
+2012	Bromley	averageHousePrice	333020
+2012	Bromley	averageSalary	37200
+2013	Bromley	averageHousePrice	354045
+2013	Bromley	averageSalary	39000
+2014	Bromley	averageHousePrice	397487
+2014	Bromley	averageSalary	40400
+2015	Bromley	averageHousePrice	441675
+2015	Bromley	averageSalary	43500
+2016	Bromley	averageHousePrice	478142
+2016	Bromley	averageSalary	44000
+2017	Bromley	averageHousePrice	502623
+2017	Bromley	averageSalary	45500
+2018	Bromley	averageHousePrice	510000
+2018	Bromley	averageSalary	46600
+2019	Bromley	averageHousePrice	530000
+2019	Bromley	averageSalary	48200
+2020	Bromley	averageHousePrice	590000
+2020	Bromley	averageSalary	49300
+2021	Bromley	averageHousePrice	620000
+2021	Bromley	averageSalary	54500
+1995	Camden	averageHousePrice	151364
+1995	Camden	averageSalary	58000
+1996	Camden	averageHousePrice	168988
+1996	Camden	averageSalary	60000
+1997	Camden	averageHousePrice	193421
+1997	Camden	averageSalary	62000
+1998	Camden	averageHousePrice	220291
+1998	Camden	averageSalary	63000
+1999	Camden	averageHousePrice	248232
+1999	Camden	averageSalary	39000
+2000	Camden	averageHousePrice	311696
+2000	Camden	averageSalary	40000
+2001	Camden	averageHousePrice	339288
+2001	Camden	averageSalary	42800
+2002	Camden	averageHousePrice	377033
+2002	Camden	averageSalary	43000
+2003	Camden	averageHousePrice	377836
+2003	Camden	averageSalary	45700
+2004	Camden	averageHousePrice	411840
+2004	Camden	averageSalary	50200
+2005	Camden	averageHousePrice	440809
+2005	Camden	averageSalary	56200
+2006	Camden	averageHousePrice	492802
+2006	Camden	averageSalary	60200
+2007	Camden	averageHousePrice	562205
+2007	Camden	averageSalary	69800
+2008	Camden	averageHousePrice	656935
+2008	Camden	averageSalary	69000
+2009	Camden	averageHousePrice	600683
+2009	Camden	averageSalary	68900
+2010	Camden	averageHousePrice	716429
+2010	Camden	averageSalary	67100
+2011	Camden	averageHousePrice	724250
+2011	Camden	averageSalary	69300
+2012	Camden	averageHousePrice	780751
+2012	Camden	averageSalary	71200
+2013	Camden	averageHousePrice	836170
+2013	Camden	averageSalary	78900
+2014	Camden	averageHousePrice	966927
+2014	Camden	averageSalary	79200
+2015	Camden	averageHousePrice	1040035
+2015	Camden	averageSalary	85000
+2016	Camden	averageHousePrice	1063248
+2016	Camden	averageSalary	88000
+2017	Camden	averageHousePrice	1099876
+2017	Camden	averageSalary	92600
+2018	Camden	averageHousePrice	1100000
+2018	Camden	averageSalary	87400
+2019	Camden	averageHousePrice	1500000
+2019	Camden	averageSalary	96900
+2020	Camden	averageHousePrice	1800000
+2020	Camden	averageSalary	107000
+2021	Camden	averageHousePrice	1900000
+2021	Camden	averageSalary	119000
+1995	City of London	averageHousePrice	146043
+1995	City of London	averageSalary	98400
+1996	City of London	averageHousePrice	136344
+1996	City of London	averageSalary	100000
+1997	City of London	averageHousePrice	156418
+1997	City of London	averageSalary	104000
+1998	City of London	averageHousePrice	227377
+1998	City of London	averageSalary	105000
+1999	City of London	averageHousePrice	232854
+1999	City of London	averageSalary	109800
+2000	City of London	averageHousePrice	255964
+2000	City of London	averageSalary	137000
+2001	City of London	averageHousePrice	266277
+2001	City of London	averageSalary	92900
+2002	City of London	averageHousePrice	270879
+2002	City of London	averageSalary	78700
+2003	City of London	averageHousePrice	322733
+2003	City of London	averageSalary	85800
+2004	City of London	averageHousePrice	292696
+2004	City of London	averageSalary	95600
+2005	City of London	averageHousePrice	329697
+2005	City of London	averageSalary	90600
+2006	City of London	averageHousePrice	374654
+2006	City of London	averageSalary	99200
+2007	City of London	averageHousePrice	490706
+2007	City of London	averageSalary	102000
+2008	City of London	averageHousePrice	412940
+2008	City of London	averageSalary	120522
+2009	City of London	averageHousePrice	449611
+2009	City of London	averageSalary	137000
+2010	City of London	averageHousePrice	524581
+2010	City of London	averageSalary	127000
+2011	City of London	averageHousePrice	541192
+2011	City of London	averageSalary	117000
+2012	City of London	averageHousePrice	537160
+2012	City of London	averageSalary	131000
+2013	City of London	averageHousePrice	775504
+2013	City of London	averageSalary	151000
+2014	City of London	averageHousePrice	894046
+2014	City of London	averageSalary	144000
+2015	City of London	averageHousePrice	926292
+2015	City of London	averageSalary	142000
+2016	City of London	averageHousePrice	928037
+2016	City of London	averageSalary	157000
+2017	City of London	averageHousePrice	950760
+2017	City of London	averageSalary	148000
+2018	City of London	averageHousePrice	965842
+2018	City of London	averageSalary	142000
+2019	City of London	averageHousePrice	981354
+2019	City of London	averageSalary	128000
+2020	City of London	averageHousePrice	1254654
+2020	City of London	averageSalary	142000
+2021	City of London	averageHousePrice	1345060
+2021	City of London	averageSalary	167000
+1995	Croydon	averageHousePrice	71800
+1995	Croydon	averageSalary	17000
+1996	Croydon	averageHousePrice	75678
+1996	Croydon	averageSalary	18000
+1997	Croydon	averageHousePrice	83343
+1997	Croydon	averageSalary	19000
+1998	Croydon	averageHousePrice	94296
+1998	Croydon	averageSalary	20000
+1999	Croydon	averageHousePrice	107094
+1999	Croydon	averageSalary	21500
+2000	Croydon	averageHousePrice	128084
+2000	Croydon	averageSalary	22100
+2001	Croydon	averageHousePrice	144254
+2001	Croydon	averageSalary	23500
+2002	Croydon	averageHousePrice	172274
+2002	Croydon	averageSalary	23400
+2003	Croydon	averageHousePrice	196228
+2003	Croydon	averageSalary	23300
+2004	Croydon	averageHousePrice	209354
+2004	Croydon	averageSalary	24300
+2005	Croydon	averageHousePrice	218049
+2005	Croydon	averageSalary	25800
+2006	Croydon	averageHousePrice	230773
+2006	Croydon	averageSalary	27200
+2007	Croydon	averageHousePrice	247869
+2007	Croydon	averageSalary	28100
+2008	Croydon	averageHousePrice	253571
+2008	Croydon	averageSalary	29000
+2009	Croydon	averageHousePrice	233442
+2009	Croydon	averageSalary	29700
+2010	Croydon	averageHousePrice	254458
+2010	Croydon	averageSalary	29000
+2011	Croydon	averageHousePrice	256219
+2011	Croydon	averageSalary	29700
+2012	Croydon	averageHousePrice	262587
+2012	Croydon	averageSalary	30700
+2013	Croydon	averageHousePrice	271891
+2013	Croydon	averageSalary	31800
+2014	Croydon	averageHousePrice	300572
+2014	Croydon	averageSalary	32600
+2015	Croydon	averageHousePrice	340768
+2015	Croydon	averageSalary	34200
+2016	Croydon	averageHousePrice	372054
+2016	Croydon	averageSalary	33800
+2017	Croydon	averageHousePrice	399645
+2017	Croydon	averageSalary	35600
+2018	Croydon	averageHousePrice	400000
+2018	Croydon	averageSalary	36500
+2019	Croydon	averageHousePrice	410000
+2019	Croydon	averageSalary	37800
+2020	Croydon	averageHousePrice	420000
+2020	Croydon	averageSalary	38300
+2021	Croydon	averageHousePrice	430000
+2021	Croydon	averageSalary	40900
