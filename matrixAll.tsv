@@ -5,3 +5,105 @@ year	borough	data	GBP
 1996	Barking and Dagenham	averageSalary	15300
 1997	Barking and Dagenham	averageHousePrice	56222
 1997	Barking and Dagenham	averageSalary	15830
+1998	Barking and Dagenham	averageHousePrice	63874
+1998	Barking and Dagenham	averageSalary	16000
+1999	Barking and Dagenham	averageHousePrice	69544
+1999	Barking and Dagenham	averageSalary	16200
+2000	Barking and Dagenham	averageHousePrice	84111
+2000	Barking and Dagenham	averageSalary	18100
+2001	Barking and Dagenham	averageHousePrice	94451
+2001	Barking and Dagenham	averageSalary	18600
+2002	Barking and Dagenham	averageHousePrice	118795
+2002	Barking and Dagenham	averageSalary	19100
+2003	Barking and Dagenham	averageHousePrice	145661
+2003	Barking and Dagenham	averageSalary	18000
+2004	Barking and Dagenham	averageHousePrice	163828
+2004	Barking and Dagenham	averageSalary	19400
+2005	Barking and Dagenham	averageHousePrice	169663
+2005	Barking and Dagenham	averageSalary	20600
+2006	Barking and Dagenham	averageHousePrice	175139
+2006	Barking and Dagenham	averageSalary	20600
+2007	Barking and Dagenham	averageHousePrice	192859
+2007	Barking and Dagenham	averageSalary	21300
+2008	Barking and Dagenham	averageHousePrice	196942
+2008	Barking and Dagenham	averageSalary	22000
+2009	Barking and Dagenham	averageHousePrice	166483
+2009	Barking and Dagenham	averageSalary	23100
+2010	Barking and Dagenham	averageHousePrice	179018
+2010	Barking and Dagenham	averageSalary	22500
+2011	Barking and Dagenham	averageHousePrice	180165
+2011	Barking and Dagenham	averageSalary	22800
+2012	Barking and Dagenham	averageHousePrice	181471
+2012	Barking and Dagenham	averageSalary	23700
+2013	Barking and Dagenham	averageHousePrice	187943
+2013	Barking and Dagenham	averageSalary	24600
+2014	Barking and Dagenham	averageHousePrice	215810
+2014	Barking and Dagenham	averageSalary	25500
+2015	Barking and Dagenham	averageHousePrice	244126
+2015	Barking and Dagenham	averageSalary	25900
+2016	Barking and Dagenham	averageHousePrice	289176
+2016	Barking and Dagenham	averageSalary	26700
+2017	Barking and Dagenham	averageHousePrice	301518
+2017	Barking and Dagenham	averageSalary	27400
+2018	Barking and Dagenham	averageHousePrice	100000
+2018	Barking and Dagenham	averageSalary	28800
+2019	Barking and Dagenham	averageHousePrice	101111
+2019	Barking and Dagenham	averageSalary	29400
+2020	Barking and Dagenham	averageHousePrice	103000
+2020	Barking and Dagenham	averageSalary	30800
+2021	Barking and Dagenham	averageHousePrice	105000
+2021	Barking and Dagenham	averageSalary	31800
+1995	Barnet	averageHousePrice	111019
+1995	Barnet	averageSalary	22000
+1996	Barnet	averageHousePrice	111203
+1996	Barnet	averageSalary	23510
+1997	Barnet	averageHousePrice	135580
+1997	Barnet	averageSalary	24650
+1998	Barnet	averageHousePrice	147673
+1998	Barnet	averageSalary	25000
+1999	Barnet	averageHousePrice	173356
+1999	Barnet	averageSalary	26800
+2000	Barnet	averageHousePrice	199147
+2000	Barnet	averageSalary	30800
+2001	Barnet	averageHousePrice	220955
+2001	Barnet	averageSalary	30400
+2002	Barnet	averageHousePrice	257942
+2002	Barnet	averageSalary	32300
+2003	Barnet	averageHousePrice	284178
+2003	Barnet	averageSalary	33900
+2004	Barnet	averageHousePrice	306902
+2004	Barnet	averageSalary	32800
+2005	Barnet	averageHousePrice	318450
+2005	Barnet	averageSalary	35600
+2006	Barnet	averageHousePrice	341937
+2006	Barnet	averageSalary	36700
+2007	Barnet	averageHousePrice	380566
+2007	Barnet	averageSalary	38700
+2008	Barnet	averageHousePrice	387784
+2008	Barnet	averageSalary	40000
+2009	Barnet	averageHousePrice	382142
+2009	Barnet	averageSalary	41600
+2010	Barnet	averageHousePrice	444386
+2010	Barnet	averageSalary	38800
+2011	Barnet	averageHousePrice	440755
+2011	Barnet	averageSalary	39200
+2012	Barnet	averageHousePrice	450269
+2012	Barnet	averageSalary	41000
+2013	Barnet	averageHousePrice	479968
+2013	Barnet	averageSalary	45500
+2014	Barnet	averageHousePrice	534786
+2014	Barnet	averageSalary	45000
+2015	Barnet	averageHousePrice	566874
+2015	Barnet	averageSalary	49000
+2016	Barnet	averageHousePrice	584202
+2016	Barnet	averageSalary	48600
+2017	Barnet	averageHousePrice	667593
+2017	Barnet	averageSalary	49500
+2018	Barnet	averageHousePrice	645512
+2018	Barnet	averageSalary	51600
+2019	Barnet	averageHousePrice	785132
+2019	Barnet	averageSalary	51600
+2020	Barnet	averageHousePrice	824658
+2020	Barnet	averageSalary	54400
+2021	Barnet	averageHousePrice	864230
+2021	Barnet	averageSalary	59100
