@@ -1,142 +1,142 @@
-﻿year,priceType,GBP
-1975,nominalHousePrice,11288
-1975,realHousePrice,120481
-1975,trendInRealHouse,114974
-1976,nominalHousePrice,12209
-1976,realHousePrice,113248
-1976,trendInRealHouse,117625
-1977,nominalHousePrice,13150
-1977,realHousePrice,107854
-1977,trendInRealHouse,120338
-1978,nominalHousePrice,16823
-1978,realHousePrice,127503
-1978,trendInRealHouse,123113
-1979,nominalHousePrice,21966
-1979,realHousePrice,142151
-1979,trendInRealHouse,125952
-1980,nominalHousePrice,23439
-1980,realHousePrice,131902
-1980,trendInRealHouse,128857
-1981,nominalHousePrice,23798
-1981,realHousePrice,119320
-1981,trendInRealHouse,131829
-1982,nominalHousePrice,25580
-1982,realHousePrice,120791
-1982,trendInRealHouse,134869
-1983,nominalHousePrice,28623
-1983,realHousePrice,128614
-1983,trendInRealHouse,137979
-1984,nominalHousePrice,32543
-1984,realHousePrice,139624
-1984,trendInRealHouse,141161
-1985,nominalHousePrice,35439
-1985,realHousePrice,144103
-1985,trendInRealHouse,144417
-1986,nominalHousePrice,39539
-1986,realHousePrice,155647
-1986,trendInRealHouse,147747
-1987,nominalHousePrice,44355
-1987,realHousePrice,167437
-1987,trendInRealHouse,151155
-1988,nominalHousePrice,57245
-1988,realHousePrice,202923
-1988,trendInRealHouse,154641
-1989,nominalHousePrice,61495
-1989,realHousePrice,202510
-1989,trendInRealHouse,158207
-1990,nominalHousePrice,54919
-1990,realHousePrice,164451
-1990,trendInRealHouse,161855
-1991,nominalHousePrice,53635
-1991,realHousePrice,154206
-1991,trendInRealHouse,165588
-1992,nominalHousePrice,50168
-1992,realHousePrice,140001
-1992,trendInRealHouse,169407
-1993,nominalHousePrice,51050
-1993,realHousePrice,140252
-1993,trendInRealHouse,173314
-1994,nominalHousePrice,52114
-1994,realHousePrice,139533
-1994,trendInRealHouse,177311
-1995,nominalHousePrice,50930
-1995,realHousePrice,132185
-1995,trendInRealHouse,181400
-1996,nominalHousePrice,55169
-1996,realHousePrice,139561
-1996,trendInRealHouse,185583
-1997,nominalHousePrice,61830
-1997,realHousePrice,150829
-1997,trendInRealHouse,189863
-1998,nominalHousePrice,66313
-1998,realHousePrice,157108
-1998,trendInRealHouse,194242
-1999,nominalHousePrice,74638
-1999,realHousePrice,174287
-1999,trendInRealHouse,198721
-2000,nominalHousePrice,81628
-2000,realHousePrice,184885
-2000,trendInRealHouse,203304
-2001,nominalHousePrice,92533
-2001,realHousePrice,207413
-2001,trendInRealHouse,207992
-2002,nominalHousePrice,115940
-2002,realHousePrice,253464
-2002,trendInRealHouse,212790
-2003,nominalHousePrice,133903
-2003,realHousePrice,285211
-2003,trendInRealHouse,217697
-2004,nominalHousePrice,152464
-2004,realHousePrice,313933
-2004,trendInRealHouse,222717
-2005,nominalHousePrice,157387
-2005,realHousePrice,316451
-2005,trendInRealHouse,227854
-2006,nominalHousePrice,172065
-2006,realHousePrice,332830
-2006,trendInRealHouse,233109
-2007,nominalHousePrice,183959
-2007,realHousePrice,341590
-2007,trendInRealHouse,238484
-2008,nominalHousePrice,156828
-2008,realHousePrice,285508
-2008,trendInRealHouse,243984
-2009,nominalHousePrice,162116
-2009,realHousePrice,291177
-2009,trendInRealHouse,246611
-2010,nominalHousePrice,162971
-2010,realHousePrice,279689
-2010,trendInRealHouse,255368
-2011,nominalHousePrice,164785
-2011,realHousePrice,269052
-2011,trendInRealHouse,261257
-2012,nominalHousePrice,162924
-2012,realHousePrice,258012
-2012,trendInRealHouse,267282
-2013,nominalHousePrice,174444
-2013,realHousePrice,269145
-2013,trendInRealHouse,273446
-2014,nominalHousePrice,189002
-2014,realHousePrice,286053
-2014,trendInRealHouse,279753
-2015,nominalHousePrice,197044
-2015,realHousePrice,294243
-2015,trendInRealHouse,286204
-2016,nominalHousePrice,205937
-2016,realHousePrice,301853
-2016,trendInRealHouse,292804
-2017,nominalHousePrice,211433
-2017,realHousePrice,298005
-2017,trendInRealHouse,299557
-2018,nominalHousePrice,214178
-2018,realHousePrice,292869
-2018,trendInRealHouse,306465
-2019,nominalHousePrice,215925
-2019,realHousePrice,288968
-2019,trendInRealHouse,313533
-2020,nominalHousePrice,229819
-2020,realHousePrice,304115
-2020,trendInRealHouse,320763
-2021,nominalHousePrice,253113
-2021,realHousePrice,313334
-2021,trendInRealHouse,328161
+year	priceType	GBP
+1975	nominalHousePrice	11288
+1975	realHousePrice	120481
+1975	trendInRealHouse	114974
+1976	nominalHousePrice	12209
+1976	realHousePrice	113248
+1976	trendInRealHouse	117625
+1977	nominalHousePrice	13150
+1977	realHousePrice	107854
+1977	trendInRealHouse	120338
+1978	nominalHousePrice	16823
+1978	realHousePrice	127503
+1978	trendInRealHouse	123113
+1979	nominalHousePrice	21966
+1979	realHousePrice	142151
+1979	trendInRealHouse	125952
+1980	nominalHousePrice	23439
+1980	realHousePrice	131902
+1980	trendInRealHouse	128857
+1981	nominalHousePrice	23798
+1981	realHousePrice	119320
+1981	trendInRealHouse	131829
+1982	nominalHousePrice	25580
+1982	realHousePrice	120791
+1982	trendInRealHouse	134869
+1983	nominalHousePrice	28623
+1983	realHousePrice	128614
+1983	trendInRealHouse	137979
+1984	nominalHousePrice	32543
+1984	realHousePrice	139624
+1984	trendInRealHouse	141161
+1985	nominalHousePrice	35439
+1985	realHousePrice	144103
+1985	trendInRealHouse	144417
+1986	nominalHousePrice	39539
+1986	realHousePrice	155647
+1986	trendInRealHouse	147747
+1987	nominalHousePrice	44355
+1987	realHousePrice	167437
+1987	trendInRealHouse	151155
+1988	nominalHousePrice	57245
+1988	realHousePrice	202923
+1988	trendInRealHouse	154641
+1989	nominalHousePrice	61495
+1989	realHousePrice	202510
+1989	trendInRealHouse	158207
+1990	nominalHousePrice	54919
+1990	realHousePrice	164451
+1990	trendInRealHouse	161855
+1991	nominalHousePrice	53635
+1991	realHousePrice	154206
+1991	trendInRealHouse	165588
+1992	nominalHousePrice	50168
+1992	realHousePrice	140001
+1992	trendInRealHouse	169407
+1993	nominalHousePrice	51050
+1993	realHousePrice	140252
+1993	trendInRealHouse	173314
+1994	nominalHousePrice	52114
+1994	realHousePrice	139533
+1994	trendInRealHouse	177311
+1995	nominalHousePrice	50930
+1995	realHousePrice	132185
+1995	trendInRealHouse	181400
+1996	nominalHousePrice	55169
+1996	realHousePrice	139561
+1996	trendInRealHouse	185583
+1997	nominalHousePrice	61830
+1997	realHousePrice	150829
+1997	trendInRealHouse	189863
+1998	nominalHousePrice	66313
+1998	realHousePrice	157108
+1998	trendInRealHouse	194242
+1999	nominalHousePrice	74638
+1999	realHousePrice	174287
+1999	trendInRealHouse	198721
+2000	nominalHousePrice	81628
+2000	realHousePrice	184885
+2000	trendInRealHouse	203304
+2001	nominalHousePrice	92533
+2001	realHousePrice	207413
+2001	trendInRealHouse	207992
+2002	nominalHousePrice	115940
+2002	realHousePrice	253464
+2002	trendInRealHouse	212790
+2003	nominalHousePrice	133903
+2003	realHousePrice	285211
+2003	trendInRealHouse	217697
+2004	nominalHousePrice	152464
+2004	realHousePrice	313933
+2004	trendInRealHouse	222717
+2005	nominalHousePrice	157387
+2005	realHousePrice	316451
+2005	trendInRealHouse	227854
+2006	nominalHousePrice	172065
+2006	realHousePrice	332830
+2006	trendInRealHouse	233109
+2007	nominalHousePrice	183959
+2007	realHousePrice	341590
+2007	trendInRealHouse	238484
+2008	nominalHousePrice	156828
+2008	realHousePrice	285508
+2008	trendInRealHouse	243984
+2009	nominalHousePrice	162116
+2009	realHousePrice	291177
+2009	trendInRealHouse	246611
+2010	nominalHousePrice	162971
+2010	realHousePrice	279689
+2010	trendInRealHouse	255368
+2011	nominalHousePrice	164785
+2011	realHousePrice	269052
+2011	trendInRealHouse	261257
+2012	nominalHousePrice	162924
+2012	realHousePrice	258012
+2012	trendInRealHouse	267282
+2013	nominalHousePrice	174444
+2013	realHousePrice	269145
+2013	trendInRealHouse	273446
+2014	nominalHousePrice	189002
+2014	realHousePrice	286053
+2014	trendInRealHouse	279753
+2015	nominalHousePrice	197044
+2015	realHousePrice	294243
+2015	trendInRealHouse	286204
+2016	nominalHousePrice	205937
+2016	realHousePrice	301853
+2016	trendInRealHouse	292804
+2017	nominalHousePrice	211433
+2017	realHousePrice	298005
+2017	trendInRealHouse	299557
+2018	nominalHousePrice	214178
+2018	realHousePrice	292869
+2018	trendInRealHouse	306465
+2019	nominalHousePrice	215925
+2019	realHousePrice	288968
+2019	trendInRealHouse	313533
+2020	nominalHousePrice	229819
+2020	realHousePrice	304115
+2020	trendInRealHouse	320763
+2021	nominalHousePrice	253113
+2021	realHousePrice	313334
+2021	trendInRealHouse	328161
